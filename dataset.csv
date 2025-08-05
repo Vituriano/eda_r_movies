@@ -1,0 +1,1001 @@
+ID_Avaliacao,Titulo_Filme,Genero_Filme,Ano_Lancamento,Nota_Avaliacao,Duracao_Minutos,Idioma_Original,Pais_Origem,Plataforma_Streaming,Data_Avaliacao,Usuario_Premium
+200001,Ficção Científica 2077,Terror,1993,4,167,es,Brasil,Netflix,2024-02-01,FALSE
+200002,Comédia Romântica,Comedia,2002,4,107,es,Índia,HBO Max,2024-05-27,FALSE
+200003,O Último Voo,Terror,2003,4,122,in,França,Outro,2024-04-22,TRUE
+200004,Ficção Científica 2077,Comédia,2001,5,160,de,França,Netflix,2023-06-19,FALSE
+200005,Drama da Vida Real,Comédia,1997,1,142,fr,Espanha,HBO Max,2024-02-07,TRUE
+200006,aventura na floresta,Comédia,2017,5,122,es,Índia,HBO Max,2023-08-08,FALSE
+200007,Drama da Vida Real,Terror,2001,4,149,es,Índia,nan,2023-12-18,TRUE
+200008,O Último Voo,Terror,2003,5,104,pt,Coreia do Sul,HBO Max,2024-02-28,FALSE
+200009,Terror na Noite,Drama,2009,2,111,de,Espanha,nan,2023-11-06,FALSE
+200010,Aventura na Floresta,Drama,2004,4,80,es,Brasil,Outro,2024-02-25,FALSE
+200011,O Último Voo,Documentário,2017,3,118,es,Brasil,Netflix,2023-11-05,sim
+200012,O Último Voo,Documentário,2006,5,162,es,França,Netflix,2024-03-24,TRUE
+200013,Terror na Noite,Terror,2016,4,166,en,Brasil,Outro,2024-02-23,TRUE
+200014,Drama da Vida Real,Documentário,2016,5,154,es,Brasil,Netflix,2023-09-13,TRUE
+200015,O Último Voo,Terror,2005,4,174,en,EUA,Netflix,2024-04-06,FALSE
+200016,Drama da Vida Real,Ação,1997,5,102,fr,França,Outro,2023-11-19,TRUE
+200017,O Último Voo,Documentário,2015,3,81,de,França,Outro,2024-06-04,FALSE
+200018,Ficção Científica 2077,Ficção Científica,2018,1,83,de,Brasil,Outro,2023-11-03,TRUE
+200019,Terror na Noite,Ação,2007,4,144,en,Brasil,Outro,2023-12-01,sim
+200020,O Último Voo,Comédia,2014,2,166,fr,Brasil,Outro,2023-11-01,TRUE
+200021,Drama da Vida Real,Ficção Científica,2016,3,177,es,França,Netflix,2023-11-05,NA
+200022,Ação Explosiva,Ficção Científica,2018,5,169,pt,França,Outro,2023-12-03,FALSE
+200023,Mistério da Mansão,Comédia,2009,3,142,en,Japão,Outro,2024-04-25,NA
+200024,Ficção Científica 2077,Ação,2012,5,76,de,Japão,Netflix,2023-09-08,FALSE
+200025,Mistério da Mansão,Comédia,2019,4,142,pt,França,nan,2023-10-15,FALSE
+200026,Drama da Vida Real,Ação,2002,5,80,en,Índia,Amazon Prime,2024-03-10,FALSE
+200027,Documentário da Natureza,Drama,1998,4,136,es,França,Netflix,2023-09-21,sim
+200028,Ação Explosiva,Documentário,2008,5,118,es,Índia,HBO Max,2023-12-10,FALSE
+200029,Ação Explosiva,Terror,2003,5,79,pt,Coreia do Sul,HBO Max,2024-01-22,FALSE
+200030,Mistério da Mansão,Ação,2013,4,76,en,Índia,Netflix,2024-04-15,FALSE
+200031,Aventura na Floresta,Ação,2023,5,148,de,Japão,HBO Max,2023-09-16,TRUE
+200032,Terror na Noite,Ação,2021,3,142,es,França,Outro,2023-12-01,FALSE
+200033,Mistério da Mansão,Terror,1990,4,156,pt,Índia,Netflix,2024-02-19,FALSE
+200034,Drama da Vida Real,Drama,2010,4,125,en,França,Netflix,2024-06-14,FALSE
+200035,Terror na Noite,Drama,1994,3,118,fr,Japão,nan,2023-08-29,TRUE
+200036,O Último Voo,Documentário,2015,4,123,de,Índia,HBO Max,2024-05-06,FALSE
+200037,O Último Voo,Ação,2018,5,99,pt,Brasil,Netflix,2024-06-04,FALSE
+200038,Drama da Vida Real,Drama,2021,4,138,fr,Brasil,Amazon Prime,2024-01-02,FALSE
+200039,Comédia Romântica,Comédia,2011,3,111,es,Espanha,Netflix,2023-07-13,TRUE
+200040,Ação Explosiva,Ação,2020,2,87,pt,França,Amazon Prime,2024-03-30,TRUE
+200041,Mistério da Mansão,Ficção Científica,2018,5,99,pt,Brasil,Amazon Prime,2024-02-20,FALSE
+200042,Aventura na Floresta,Acao,2007,4,102,es,Índia,Netflix,2024-06-10,TRUE
+200043,Ação Explosiva,Ação,2001,4,222,en,Coreia do Sul,Netflix,2024-01-17,FALSE
+200044,Comédia Romântica,Drama,2018,5,85,de,Coreia do Sul,HBO Max,2023-07-16,TRUE
+200045,Terror na Noite,Drama,2003,4,171,es,Índia,HBO Max,2023-09-16,FALSE
+200046,Terror na Noite,Ficção Científica,2021,5,108,fr,Coreia do Sul,Outro,2024-01-11,FALSE
+200047,Terror na Noite,Terror,2014,4,98,fr,EUA,Netflix,2024-01-10,TRUE
+200048,O Último Voo,Comédia,2015,3,82,en,Brasil,Netflix,2023-09-25,FALSE
+200049,Drama da Vida Real,Terror,2011,3,106,in,Brasil,Netflix,2023-09-30,FALSE
+200050,Comédia Romântica,Terror,2012,5,123,de,França,HBO Max,2023-09-07,TRUE
+200051,O Último Voo,Acao,2014,5,134,es,Espanha,Amazon Prime,2023-07-29,TRUE
+200052,Mistério da Mansão,Comédia,2021,2,108,fr,França,Outro,2023-11-25,FALSE
+200053,Mistério da Mansão,Documentário,2000,4,167,pt,EUA,Netflix,2024-04-06,TRUE
+200054,Drama da Vida Real,Drama,1994,4,129,es,Brasil,Netflix,2023-07-22,FALSE
+200055,Aventura na Floresta,Ação,2011,3,166,es,Japão,Netflix,2024-01-25,FALSE
+200056,Terror na Noite,Ação,2003,5,120,en,França,Netflix,2024-03-30,FALSE
+200057,Aventura na Floresta,Documentário,1994,5,116,en,Brasil,Amazon Prime,2024-02-22,TRUE
+200058,Terror na Noite,Drama,2012,4,139,es,Brasil,HBO Max,2024-04-16,FALSE
+200059,Drama da Vida Real,Documentário,2017,3,134,pt,Índia,nan,2024-05-10,FALSE
+200060,Mistério da Mansão,Comédia,2012,3,89,in,EUA,nan,2024-06-14,TRUE
+200061,Mistério da Mansão,Ficção Científica,2004,4,127,de,Brasil,Amazon Prime,2024-05-05,FALSE
+200062,Comédia Romântica,Comedia,2004,3,161,de,Japão,Amazon Prime,2023-06-07,TRUE
+200063,Ação Explosiva,Terror,2016,3,71,pt,Japão,Netflix,2024-01-29,TRUE
+200064,Comédia Romântica,Comédia,2008,5,114,pt,Coreia do Sul,nan,2023-11-18,FALSE
+200065,Ação Explosiva,Ficção Científica,1995,5,73,en,Coreia do Sul,HBO Max,2023-07-10,TRUE
+200066,Ficção Científica 2077,Documentário,2000,2,179,fr,Coreia do Sul,Netflix,2024-02-23,FALSE
+200067,Aventura na Floresta,Comédia,2010,3,88,in,França,Amazon Prime,2023-06-22,TRUE
+200068,Terror na Noite,Ficção Científica,2018,4,172,pt,Coreia do Sul,HBO Max,2023-10-26,FALSE
+200069,Comédia Romântica,Comédia,1997,2,106,pt,Índia,Outro,2023-11-07,FALSE
+200070,O Último Voo,Ação,1992,4,133,es,EUA,Netflix,2023-07-22,FALSE
+200071,Drama da Vida Real,Ficção Científica,2016,4,78,fr,Japão,Netflix,2024-06-15,FALSE
+200072,Comédia Romântica,Terror,2002,3,137,es,Índia,HBO Max,2023-12-08,TRUE
+200073,Ficção Científica 2077,Comédia,2014,5,134,es,Japão,HBO Max,2024-03-01,TRUE
+200074,Terror na Noite,Terror,2006,4,165,pt,França,HBO Max,2023-08-09,FALSE
+200075,Aventura na Floresta,Comédia,2018,3,170,pt,Coreia do Sul,HBO Max,2023-09-10,TRUE
+200076,Ação Explosiva,Ação,2018,4,158,de,EUA,HBO Max,2024-02-05,FALSE
+200077,Comédia Romântica,Drama,2010,5,70,de,Brasil,Amazon Prime,2024-06-27,TRUE
+200078,Drama da Vida Real,Ação,1990,4,138,en,França,nan,2023-08-03,TRUE
+200079,Comédia Romântica,Terror,2018,5,99,es,França,nan,2023-11-09,NA
+200080,Comédia Romântica,Ação,2013,5,96,de,Coreia do Sul,Amazon Prime,2023-08-19,TRUE
+200081,Mistério da Mansão,Terror,2017,3,98,de,Brasil,Amazon Prime,2024-04-28,FALSE
+200082,Terror na Noite,Drama,1996,4,101,en,Brasil,HBO Max,2024-05-03,FALSE
+200083,Terror na Noite,Documentário,2023,4,112,de,EUA,Netflix,2024-03-09,TRUE
+200084,Documentário da Natureza,Terror,2002,5,118,de,Índia,Netflix,2023-06-11,TRUE
+200085,Terror na Noite,Documentário,2004,4,157,fr,Índia,Amazon Prime,2023-12-19,TRUE
+200086,Mistério da Mansão,Terror,2010,1,72,pt,Coreia do Sul,Amazon Prime,2024-05-06,TRUE
+200087,Comédia Romântica,Comédia,1995,5,83,en,EUA,nan,2023-07-25,FALSE
+200088,Comédia Romântica,Documentário,2007,2,137,de,Índia,Amazon Prime,2024-02-01,TRUE
+200089,Documentário da Natureza,Ficção Científica,2012,4,168,in,França,Amazon Prime,2024-02-26,sim
+200090,Documentário da Natureza,Comédia,2008,5,154,pt,Espanha,Amazon Prime,2023-09-11,FALSE
+200091,Mistério da Mansão,Ação,2013,4,149,es,Coreia do Sul,HBO Max,2024-05-29,TRUE
+200092,Comédia Romântica,Ficção Científica,2021,4,85,fr,França,Amazon Prime,2023-08-22,FALSE
+200093,Documentário da Natureza,Ficção Científica,1992,2,129,fr,Japão,Amazon Prime,2024-02-11,FALSE
+200094,Documentário da Natureza,Drama,2004,4,143,es,Índia,Netflix,2023-06-23,FALSE
+200095,Terror na Noite,Ação,2010,5,89,es,Índia,Amazon Prime,2024-05-20,NA
+200096,Ação Explosiva,Ficção Científica,1999,2,177,pt,Índia,Outro,2024-02-24,FALSE
+200097,Drama da Vida Real,Ficção Científica,2015,5,160,es,França,Netflix,2024-03-30,TRUE
+200098,Terror na Noite,Comédia,2013,3,86,en,França,HBO Max,2024-06-21,FALSE
+200099,O Último Voo,Ação,2014,3,80,pt,Espanha,Amazon Prime,2024-05-26,sim
+200100,Drama da Vida Real,Ficção Científica,2002,2,114,en,EUA,Netflix,2024-03-28,FALSE
+200101,O Último Voo,Comédia,2016,5,123,pt,EUA,HBO Max,2023-12-21,FALSE
+200102,Ficção Científica 2077,Ficção Científica,2001,5,163,de,Índia,Outro,2023-12-26,FALSE
+200103,Mistério da Mansão,Drama,2023,4,70,es,Coreia do Sul,Netflix,2023-06-13,FALSE
+200104,Aventura na Floresta,Ficção Científica,1991,3,161,en,EUA,Netflix,2024-05-08,TRUE
+200105,Documentário da Natureza,Documentário,2018,5,109,pt,França,Outro,2024-02-20,FALSE
+200106,Ação Explosiva,Ficção Científica,2000,2,79,de,Brasil,Outro,2024-06-21,TRUE
+200107,Comédia Romântica,Drama,2008,5,148,fr,Coreia do Sul,HBO Max,2024-01-07,FALSE
+200108,Documentário da Natureza,Comédia,2007,1,138,pt,Japão,Amazon Prime,2023-06-01,FALSE
+200109,Ficção Científica 2077,Comédia,2012,2,157,pt,Índia,HBO Max,2024-02-08,TRUE
+200110,Ação Explosiva,Comédia,2007,2,146,pt,Índia,Netflix,2023-08-11,FALSE
+200111,Ficção Científica 2077,Ficção Científica,2015,5,168,en,Índia,Netflix,2023-10-24,FALSE
+200112,Documentário da Natureza,Comédia,1999,5,152,fr,Espanha,Netflix,2023-08-31,FALSE
+200113,O Último Voo,Ação,2011,5,110,fr,Índia,Outro,2023-12-26,FALSE
+200114,O Último Voo,Comédia,2013,5,170,pt,Brasil,HBO Max,2024-06-17,TRUE
+200115,Aventura na Floresta,Drama,2015,4,119,de,França,HBO Max,2024-01-11,FALSE
+200116,Terror na Noite,Comédia,1997,4,120,en,EUA,nan,2023-10-18,FALSE
+200117,Documentário da Natureza,Terror,1994,2,168,fr,Japão,Netflix,2023-07-16,FALSE
+200118,O Último Voo,Comédia,1997,5,136,en,Espanha,HBO Max,2023-10-23,FALSE
+200119,Ficção Científica 2077,Terror,2001,2,134,de,EUA,Amazon Prime,2024-03-07,FALSE
+200120,Comédia Romântica,Terror,1993,4,88,en,Espanha,Netflix,2023-09-05,FALSE
+200121,Aventura na Floresta,Ação,1995,4,120,fr,Japão,Netflix,2023-09-20,TRUE
+200122,Documentário da Natureza,Comédia,2004,4,165,en,Índia,Amazon Prime,2023-06-21,FALSE
+200123,Ficção Científica 2077,Drama,2020,5,125,de,Espanha,Amazon Prime,2024-04-03,FALSE
+200124,Drama da Vida Real,Documentário,2010,3,103,fr,Índia,Netflix,2023-08-10,TRUE
+200125,Documentário da Natureza,Ficção Científica,1997,5,155,en,Japão,Netflix,2023-08-03,FALSE
+200126,Mistério da Mansão,Ação,2010,5,97,pt,Brasil,nan,2024-01-19,FALSE
+200127,Aventura na Floresta,Documentário,1992,5,72,en,Japão,Outro,2024-04-23,TRUE
+200128,Drama da Vida Real,Drama,1990,5,144,en,EUA,Outro,2023-08-15,FALSE
+200129,Comédia Romântica,Ficção Científica,2017,5,152,de,Índia,nan,2023-09-07,TRUE
+200130,Ação Explosiva,Ficção Científica,1995,5,114,es,Índia,Outro,2024-05-05,sim
+200131,Mistério da Mansão,Documentário,1991,5,179,es,Espanha,HBO Max,2023-07-01,FALSE
+200132,O Último Voo,Terror,2021,2,116,fr,Índia,Outro,2023-06-17,TRUE
+200133,Aventura na Floresta,Documentário,1999,3,148,en,Espanha,Outro,2024-02-10,FALSE
+200134,Ação Explosiva,Comédia,1998,5,131,es,Japão,Amazon Prime,2024-06-03,FALSE
+200135,Terror na Noite,Drama,2007,4,142,de,Coreia do Sul,Amazon Prime,2023-07-31,FALSE
+200136,O Último Voo,Terror,2016,2,102,en,Espanha,Outro,2024-03-25,FALSE
+200137,Ação Explosiva,Terror,2005,4,78,pt,EUA,Amazon Prime,2023-06-14,TRUE
+200138,O Último Voo,Comédia,2003,4,112,fr,Índia,HBO Max,2024-05-26,FALSE
+200139,Aventura na Floresta,Drama,1999,4,82,en,Brasil,Outro,2024-02-05,FALSE
+200140,Aventura na Floresta,Ficção Científica,2011,3,104,in,Brasil,HBO Max,2023-11-27,TRUE
+200141,O Último Voo,Drama,2001,4,90,es,Espanha,HBO Max,2024-06-16,TRUE
+200142,Mistério da Mansão,Terror,2021,4,166,de,Espanha,Outro,2023-10-20,FALSE
+200143,O Último Voo,Acao,2021,5,136,es,Coreia do Sul,Amazon Prime,2023-07-28,TRUE
+200144,Ação Explosiva,Ficção Científica,2004,4,83,en,Índia,Netflix,2023-12-19,TRUE
+200145,Documentário da Natureza,Documentário,1996,1,80,en,EUA,Netflix,2024-04-01,FALSE
+200146,Mistério da Mansão,Ficção Científica,2022,2,108,in,EUA,nan,2023-10-09,FALSE
+200147,Documentário da Natureza,Comédia,2022,5,154,es,França,Amazon Prime,2023-06-28,TRUE
+200148,Ficção Científica 2077,Drama,1995,5,166,de,Coreia do Sul,HBO Max,2024-06-17,FALSE
+200149,Aventura na Floresta,Drama,1990,2,113,en,França,Amazon Prime,2023-10-10,FALSE
+200150,Mistério da Mansão,Ação,1997,5,147,en,Coreia do Sul,Outro,2024-02-09,TRUE
+200151,O Último Voo,Comédia,2015,4,134,es,França,Amazon Prime,2024-01-13,TRUE
+200152,Terror na Noite,Drama,2014,3,124,es,Coreia do Sul,Amazon Prime,2024-03-24,FALSE
+200153,O Último Voo,Documentário,2023,4,112,es,EUA,Amazon Prime,2023-08-21,sim
+200154,Terror na Noite,Terror,2000,3,149,fr,Espanha,Amazon Prime,2023-12-01,FALSE
+200155,Mistério da Mansão,Comedia,2013,3,74,pt,França,Outro,2023-10-22,TRUE
+200156,Comédia Romântica,Ação,2002,4,76,en,Brasil,Amazon Prime,2023-12-25,FALSE
+200157,Aventura na Floresta,Ficção Científica,2015,5,125,pt,Espanha,Netflix,2023-08-30,TRUE
+200158,Aventura na Floresta,Ficção Científica,2016,4,120,pt,Coreia do Sul,HBO Max,2023-09-05,FALSE
+200159,Documentário da Natureza,Ficção Científica,2023,4,127,es,EUA,Amazon Prime,2023-11-08,TRUE
+200160,O Último Voo,Terror,2010,4,114,de,Japão,HBO Max,2023-08-02,sim
+200161,O Último Voo,Drama,2005,4,142,fr,Japão,Outro,2023-10-29,TRUE
+200162,Documentário da Natureza,Terror,2010,5,170,de,Índia,Outro,2024-04-10,FALSE
+200163,Mistério da Mansão,Ação,1994,3,173,de,EUA,Netflix,2024-02-10,FALSE
+200164,Mistério da Mansão,Comédia,2009,2,112,de,Índia,Outro,2024-02-13,FALSE
+200165,Comédia Romântica,Drama,2016,3,113,fr,Índia,Amazon Prime,2023-11-16,FALSE
+200166,Ficção Científica 2077,Drama,2021,4,153,es,Índia,Netflix,2023-08-10,TRUE
+200167,O Último Voo,Drama,1993,4,154,fr,Coreia do Sul,HBO Max,2024-06-08,FALSE
+200168,O Último Voo,Documentário,2004,4,158,de,França,Netflix,2023-10-23,TRUE
+200169,Ação Explosiva,Documentário,2015,4,138,pt,Índia,Outro,2024-02-15,FALSE
+200170,Aventura na Floresta,Comédia,2021,5,112,es,EUA,Netflix,2023-07-23,TRUE
+200171,Aventura na Floresta,Drama,2002,4,74,es,Japão,HBO Max,2023-07-11,TRUE
+200172,Drama da Vida Real,Ação,2014,5,90,in,Brasil,Netflix,2023-11-08,TRUE
+200173,Documentário da Natureza,Ação,2008,4,122,es,EUA,Outro,2023-10-09,FALSE
+200174,Comédia Romântica,Documentário,2006,2,127,es,França,Amazon Prime,2023-12-31,NA
+200175,Ação Explosiva,Documentário,2020,5,97,pt,EUA,Netflix,2023-10-19,FALSE
+200176,Ficção Científica 2077,Comédia,2008,4,90,fr,Brasil,Amazon Prime,2023-08-11,FALSE
+200177,Ação Explosiva,Terror,2003,4,105,en,França,Amazon Prime,2024-01-09,NA
+200178,Terror na Noite,Ação,2008,5,179,en,Brasil,Outro,2023-07-20,FALSE
+200179,Drama da Vida Real,Terror,1999,3,166,pt,Espanha,nan,2023-12-12,FALSE
+200180,Mistério da Mansão,Ação,2011,5,121,es,Índia,HBO Max,2023-07-27,TRUE
+200181,Comédia Romântica,Documentário,1993,4,168,fr,Índia,Netflix,2023-07-25,FALSE
+200182,Aventura na Floresta,Documentário,2011,5,117,fr,Brasil,Outro,2023-10-05,TRUE
+200183,Comédia Romântica,Ação,2006,5,150,fr,Espanha,HBO Max,2023-08-29,FALSE
+200184,Ação Explosiva,Comedia,2012,5,71,de,França,Outro,2024-04-02,NA
+200185,aventura na floresta,Ação,1990,4,126,fr,Brasil,HBO Max,2023-07-16,FALSE
+200186,Ficção Científica 2077,Comédia,1997,5,104,de,Coreia do Sul,Netflix,2023-11-09,FALSE
+200187,Documentário da Natureza,Terror,2005,3,113,en,Espanha,Outro,2023-10-04,FALSE
+200188,Ficção Científica 2077,Drama,2007,5,136,pt,França,Netflix,2023-11-15,FALSE
+200189,Comédia Romântica,Terror,2012,3,121,de,Coreia do Sul,Amazon Prime,2023-08-12,FALSE
+200190,Ficção Científica 2077,Ação,2012,5,103,en,Brasil,Outro,2023-06-24,FALSE
+200191,Ficção Científica 2077,Ficção Científica,2014,5,133,en,Espanha,nan,2024-05-07,FALSE
+200192,Ação Explosiva,Ação,2015,4,143,es,Coreia do Sul,Netflix,2024-04-22,FALSE
+200193,Drama da Vida Real,Drama,1995,5,143,es,Japão,Netflix,2023-11-19,FALSE
+200194,O Último Voo,Comedia,2003,5,123,pt,EUA,Netflix,2023-06-18,FALSE
+200195,Documentário da Natureza,Comédia,1991,3,144,en,Índia,Amazon Prime,2023-12-24,FALSE
+200196,Drama da Vida Real,Drama,2002,4,116,pt,Coreia do Sul,Outro,2023-06-28,TRUE
+200197,Comédia Romântica,Terror,2010,3,133,fr,Índia,Amazon Prime,2024-02-16,FALSE
+200198,Ação Explosiva,Ação,2015,1,150,en,Coreia do Sul,Outro,2023-10-03,FALSE
+200199,Ficção Científica 2077,Ação,2000,5,107,en,Espanha,HBO Max,2023-09-10,sim
+200200,Terror na Noite,Terror,2009,5,165,es,Japão,Netflix,2024-01-12,TRUE
+200201,Documentário da Natureza,Ação,2006,2,106,fr,EUA,HBO Max,2024-05-29,sim
+200202,Drama da Vida Real,Documentário,2020,5,160,fr,Coreia do Sul,Outro,2024-01-23,FALSE
+200203,Aventura na Floresta,Ação,2012,3,135,fr,França,Outro,2024-03-30,sim
+200204,Mistério da Mansão,Comedia,2005,3,70,po,Espanha,HBO Max,2024-06-23,TRUE
+200205,Documentário da Natureza,Terror,2006,4,104,de,EUA,Amazon Prime,2024-06-02,FALSE
+200206,Aventura na Floresta,Documentário,1997,1,106,es,Índia,Outro,2023-09-13,FALSE
+200207,Comédia Romântica,Documentário,2010,5,76,en,Coreia do Sul,Netflix,2024-05-17,TRUE
+200208,aventura na floresta,Terror,2005,4,74,fr,Coreia do Sul,Amazon Prime,2023-12-16,TRUE
+200209,Ficção Científica 2077,Ação,2011,2,178,en,Índia,Amazon Prime,2023-08-02,FALSE
+200210,O Último Voo,Comédia,2010,4,153,es,Brasil,HBO Max,2024-01-29,TRUE
+200211,Mistério da Mansão,Documentário,2005,4,71,fr,Índia,Amazon Prime,2024-05-29,NA
+200212,Ficção Científica 2077,Comédia,2021,4,140,de,Brasil,Outro,2023-10-16,FALSE
+200213,O Último Voo,Terror,2015,5,77,es,Japão,Netflix,2024-01-12,TRUE
+200214,Ficção Científica 2077,Comédia,2021,3,162,de,EUA,HBO Max,2024-01-11,FALSE
+200215,Drama da Vida Real,Terror,1991,1,132,pt,EUA,HBO Max,2024-01-22,FALSE
+200216,Aventura na Floresta,Ação,2021,4,120,pt,Espanha,HBO Max,2024-01-17,sim
+200217,Ficção Científica 2077,Drama,1999,4,77,de,Japão,HBO Max,2024-02-11,TRUE
+200218,Documentário da Natureza,Comédia,1999,3,99,es,Espanha,Netflix,2023-10-30,FALSE
+200219,Aventura na Floresta,Documentário,2012,2,104,fr,Brasil,Amazon Prime,2023-12-19,FALSE
+200220,Aventura na Floresta,Ficção Científica,1995,5,128,de,EUA,Amazon Prime,2023-12-03,FALSE
+200221,Terror na Noite,Ação,1999,3,72,in,Japão,Amazon Prime,2024-05-14,TRUE
+200222,Comédia Romântica,Documentário,2006,4,145,de,Índia,Amazon Prime,2023-08-13,NA
+200223,Terror na Noite,Comédia,1997,5,137,en,Japão,Amazon Prime,2023-06-16,TRUE
+200224,Aventura na Floresta,Acao,2004,3,169,fr,EUA,Netflix,2023-12-24,FALSE
+200225,Comédia Romântica,Terror,2012,5,78,pt,Japão,Outro,2024-01-07,FALSE
+200226,Documentário da Natureza,Documentário,2006,4,142,es,Coreia do Sul,HBO Max,2023-10-21,FALSE
+200227,O Último Voo,Drama,2008,5,132,es,Brasil,Netflix,2024-01-31,NA
+200228,O Último Voo,Ação,1995,5,109,pt,EUA,Outro,2023-12-07,FALSE
+200229,Aventura na Floresta,Documentário,2015,2,171,de,Japão,Netflix,2023-06-07,FALSE
+200230,Drama da Vida Real,Documentário,2008,5,108,en,Brasil,Netflix,2024-06-25,FALSE
+200231,Ação Explosiva,Drama,2001,3,129,fr,Brasil,Outro,2024-01-15,FALSE
+200232,Documentário da Natureza,Documentário,2002,3,170,de,Coreia do Sul,Netflix,2024-03-29,FALSE
+200233,O Último Voo,Ação,2012,1,136,de,Coreia do Sul,Netflix,2024-02-08,TRUE
+200234,Mistério da Mansão,Acao,2021,4,110,en,França,Amazon Prime,2023-06-08,FALSE
+200235,Drama da Vida Real,Terror,1994,4,118,en,Japão,Outro,2023-08-04,FALSE
+200236,Mistério da Mansão,Ficção Científica,2006,5,90,es,EUA,Netflix,2023-08-20,TRUE
+200237,Drama da Vida Real,Drama,1997,5,92,de,Espanha,Amazon Prime,2024-06-07,FALSE
+200238,Comédia Romântica,Drama,2003,3,99,pt,Brasil,nan,2023-11-20,FALSE
+200239,O Último Voo,Drama,2013,2,109,de,Coreia do Sul,Amazon Prime,2024-02-12,sim
+200240,Documentário da Natureza,Comedia,1994,2,118,de,Brasil,Amazon Prime,2024-05-31,FALSE
+200241,Ação Explosiva,Documentário,2009,5,108,po,Índia,Netflix,2024-04-24,FALSE
+200242,Ação Explosiva,Ação,2020,5,93,es,Coreia do Sul,Outro,2024-04-20,TRUE
+200243,aventura na floresta,Documentário,2021,2,168,en,Espanha,nan,2024-04-10,FALSE
+200244,O Último Voo,Drama,2016,4,79,fr,Japão,Amazon Prime,2023-11-08,FALSE
+200245,Mistério da Mansão,Drama,2004,5,173,es,Brasil,nan,2024-01-20,TRUE
+200246,Ficção Científica 2077,Comédia,2005,4,131,fr,Brasil,Amazon Prime,2024-05-24,FALSE
+200247,Drama da Vida Real,Documentário,1998,4,80,en,Índia,HBO Max,2024-02-24,FALSE
+200248,Aventura na Floresta,Drama,2019,2,94,es,Coreia do Sul,nan,2024-05-17,TRUE
+200249,Drama da Vida Real,Drama,2017,3,96,en,Espanha,Netflix,2024-02-26,TRUE
+200250,O Último Voo,Drama,2009,2,126,de,Espanha,Outro,2023-07-28,FALSE
+200251,Mistério da Mansão,Ação,2007,3,136,es,Japão,Amazon Prime,2024-03-14,TRUE
+200252,Ficção Científica 2077,Comédia,1995,3,161,fr,Coreia do Sul,Outro,2024-01-10,TRUE
+200253,Comédia Romântica,Acao,2007,3,82,de,França,HBO Max,2023-12-16,TRUE
+200254,Aventura na Floresta,Terror,2009,4,121,pt,EUA,Netflix,2023-09-12,TRUE
+200255,Documentário da Natureza,Ação,2015,4,141,de,EUA,Netflix,2024-01-18,FALSE
+200256,Comédia Romântica,Ação,2007,4,138,pt,Índia,Netflix,2023-06-29,TRUE
+200257,Mistério da Mansão,Comédia,2003,5,101,de,Coreia do Sul,Outro,2024-03-09,FALSE
+200258,Ação Explosiva,Ação,1991,4,148,es,Brasil,Amazon Prime,2024-02-05,FALSE
+200259,Drama da Vida Real,Terror,2001,4,144,de,Japão,Netflix,2023-06-12,FALSE
+200260,O Último Voo,Terror,1995,5,162,pt,Coreia do Sul,Amazon Prime,2023-07-01,TRUE
+200261,Ficção Científica 2077,Documentário,2008,2,173,fr,Índia,Amazon Prime,2024-03-01,FALSE
+200262,Aventura na Floresta,Documentário,2004,2,79,pt,Japão,Netflix,2023-07-23,FALSE
+200263,Ficção Científica 2077,Comédia,2009,5,125,en,Índia,HBO Max,2023-09-09,TRUE
+200264,Terror na Noite,Ficção Científica,2023,4,122,de,Brasil,nan,2024-05-08,FALSE
+200265,Mistério da Mansão,Terror,2005,3,117,fr,Coreia do Sul,Outro,2023-08-17,FALSE
+200266,Terror na Noite,Ação,2015,5,76,es,Brasil,Outro,2023-12-05,FALSE
+200267,Comédia Romântica,Drama,2004,5,94,es,Índia,Netflix,2023-07-23,FALSE
+200268,Comédia Romântica,Comédia,1998,1,108,es,Japão,Netflix,2023-06-29,FALSE
+200269,Ficção Científica 2077,Drama,1999,4,139,pt,Índia,nan,2024-04-05,TRUE
+200270,O Último Voo,Ficção Científica,2004,3,161,fr,Coreia do Sul,Netflix,2023-09-29,TRUE
+200271,Aventura na Floresta,Drama,1997,3,101,pt,Espanha,Netflix,2023-08-24,FALSE
+200272,Terror na Noite,Ação,1997,4,74,pt,Brasil,HBO Max,2023-12-15,FALSE
+200273,Ficção Científica 2077,Documentário,2004,5,130,pt,Coreia do Sul,Netflix,2024-06-07,TRUE
+200274,Ficção Científica 2077,Ficção Científica,2002,5,115,pt,EUA,Netflix,2024-01-18,FALSE
+200275,Ficção Científica 2077,Comédia,2023,4,88,es,Coreia do Sul,Amazon Prime,2023-10-26,TRUE
+200276,Aventura na Floresta,Ficção Científica,1991,1,170,in,Coreia do Sul,Netflix,2024-04-14,TRUE
+200277,Ficção Científica 2077,Documentário,2003,1,172,es,EUA,HBO Max,2023-07-04,TRUE
+200278,Mistério da Mansão,Ficção Científica,2017,4,136,fr,Coreia do Sul,Outro,2024-06-01,TRUE
+200279,Drama da Vida Real,Ficção Científica,2013,2,92,en,Índia,Amazon Prime,2024-03-05,TRUE
+200280,O Último Voo,Terror,2020,5,75,pt,Coreia do Sul,Netflix,2023-07-11,FALSE
+200281,Mistério da Mansão,Comédia,1991,2,134,en,EUA,Amazon Prime,2023-06-01,FALSE
+200282,Terror na Noite,Drama,2014,4,126,in,França,nan,2023-09-12,TRUE
+200283,Terror na Noite,Ação,1999,4,102,en,EUA,Netflix,2023-12-17,FALSE
+200284,Ação Explosiva,Ficção Científica,2006,3,109,en,Japão,HBO Max,2024-05-07,FALSE
+200285,Mistério da Mansão,Comédia,2016,2,160,en,Espanha,Outro,2023-12-19,TRUE
+200286,Comédia Romântica,Terror,2020,4,174,de,Coreia do Sul,Netflix,2024-05-24,TRUE
+200287,O Último Voo,Terror,2011,4,155,en,França,Netflix,2023-10-09,TRUE
+200288,Aventura na Floresta,Comédia,2020,5,125,es,Japão,HBO Max,2024-01-04,FALSE
+200289,Ficção Científica 2077,Terror,2023,4,168,fr,Coreia do Sul,Netflix,2024-01-20,TRUE
+200290,Comédia Romântica,Comédia,1991,5,161,es,Brasil,HBO Max,2024-05-26,TRUE
+200291,Ação Explosiva,Ação,2004,2,120,fr,EUA,Netflix,2024-02-28,TRUE
+200292,Aventura na Floresta,Drama,2006,4,174,fr,Brasil,Outro,2023-08-20,TRUE
+200293,Terror na Noite,Ficção Científica,2007,4,74,de,Espanha,Amazon Prime,2024-06-12,FALSE
+200294,Comédia Romântica,Ação,1997,4,141,de,França,nan,2024-01-27,TRUE
+200295,Mistério da Mansão,Drama,2008,3,158,de,França,Amazon Prime,2024-01-21,sim
+200296,Documentário da Natureza,Drama,2003,2,117,en,Coreia do Sul,Amazon Prime,2024-03-25,TRUE
+200297,Drama da Vida Real,Comédia,2005,5,134,en,Coreia do Sul,Amazon Prime,2023-10-13,TRUE
+200298,Ficção Científica 2077,Documentário,1999,4,141,de,França,Amazon Prime,2023-12-18,FALSE
+200299,Ficção Científica 2077,Comedia,2015,2,172,pt,França,HBO Max,2023-11-15,FALSE
+200300,Ação Explosiva,Acao,2011,3,143,fr,Índia,HBO Max,2023-09-24,TRUE
+200301,Comédia Romântica,Ação,1997,5,140,in,Espanha,Outro,2023-06-24,TRUE
+200302,Terror na Noite,Documentário,2014,5,146,po,Espanha,Amazon Prime,2023-09-16,NA
+200303,Drama da Vida Real,Ação,2009,1,165,es,EUA,Amazon Prime,2023-06-20,TRUE
+200304,Documentário da Natureza,Documentário,2000,5,122,fr,Índia,Amazon Prime,2024-04-26,FALSE
+200305,Mistério da Mansão,Comédia,1990,3,135,de,Japão,Amazon Prime,2023-11-25,FALSE
+200306,Mistério da Mansão,Documentário,2005,5,141,po,Índia,nan,2024-01-22,TRUE
+200307,Terror na Noite,Documentário,2015,4,114,es,França,Netflix,2023-11-14,FALSE
+200308,Ação Explosiva,Drama,1992,4,89,en,Brasil,Outro,2024-03-05,FALSE
+200309,Ficção Científica 2077,Ação,2015,5,118,de,Japão,HBO Max,2023-12-08,TRUE
+200310,Terror na Noite,Drama,2012,4,121,es,EUA,Outro,2024-04-08,FALSE
+200311,Aventura na Floresta,Drama,1999,5,164,en,Brasil,Outro,2023-07-07,FALSE
+200312,Mistério da Mansão,Drama,1998,3,123,fr,Índia,Outro,2024-03-15,TRUE
+200313,Documentário da Natureza,Documentário,2017,2,147,en,EUA,Netflix,2024-01-20,TRUE
+200314,Documentário da Natureza,Documentário,1995,5,161,de,Coreia do Sul,nan,2023-10-19,NA
+200315,Comédia Romântica,Comédia,2021,5,132,es,Espanha,Amazon Prime,2023-06-01,TRUE
+200316,Documentário da Natureza,Comédia,2003,4,158,fr,França,nan,2024-06-29,FALSE
+200317,Drama da Vida Real,Drama,2003,5,117,fr,Japão,Outro,2024-01-31,FALSE
+200318,Drama da Vida Real,Ação,2018,3,153,fr,Brasil,Amazon Prime,2023-09-29,FALSE
+200319,Ficção Científica 2077,Documentário,1998,5,92,es,Espanha,Amazon Prime,2024-03-29,NA
+200320,Terror na Noite,Acao,1996,5,95,en,França,Amazon Prime,2024-04-07,TRUE
+200321,Ficção Científica 2077,Ficção Científica,1995,4,85,fr,Espanha,HBO Max,2023-06-25,FALSE
+200322,Mistério da Mansão,Terror,2000,4,121,de,Brasil,Amazon Prime,2024-05-04,FALSE
+200323,Comédia Romântica,Comédia,1995,2,149,pt,França,Outro,2024-04-23,TRUE
+200324,Comédia Romântica,Comédia,1991,2,143,es,EUA,HBO Max,2023-09-03,TRUE
+200325,Drama da Vida Real,Terror,2010,4,142,es,Brasil,HBO Max,2024-06-29,FALSE
+200326,Documentário da Natureza,Documentário,2005,3,100,es,Coreia do Sul,HBO Max,2023-09-25,FALSE
+200327,Documentário da Natureza,Ficção Científica,1994,4,113,pt,Índia,Netflix,2024-01-08,FALSE
+200328,Aventura na Floresta,Ação,2011,2,179,es,França,Amazon Prime,2023-08-26,FALSE
+200329,Documentário da Natureza,Terror,1997,5,93,pt,Japão,Netflix,2023-10-11,NA
+200330,Ação Explosiva,Terror,2006,3,82,es,Coreia do Sul,Outro,2024-04-16,NA
+200331,Comédia Romântica,Drama,2019,4,109,fr,Índia,Amazon Prime,2024-02-22,TRUE
+200332,Comédia Romântica,Ação,2012,3,160,es,Coreia do Sul,Netflix,2024-02-12,TRUE
+200333,Drama da Vida Real,Documentário,2001,3,101,en,Coreia do Sul,Outro,2023-08-06,TRUE
+200334,Terror na Noite,Comédia,2014,4,78,fr,Japão,nan,2023-06-13,FALSE
+200335,Comédia Romântica,Documentário,2015,1,157,es,Índia,Netflix,2023-06-14,FALSE
+200336,O Último Voo,Ação,2002,2,148,de,Coreia do Sul,Amazon Prime,2024-02-07,FALSE
+200337,Aventura na Floresta,Documentário,1991,5,167,es,Brasil,Netflix,2023-09-13,FALSE
+200338,Mistério da Mansão,Terror,1996,3,129,en,Espanha,Outro,2024-02-13,FALSE
+200339,Aventura na Floresta,Terror,2002,5,130,en,França,nan,2023-12-18,TRUE
+200340,Aventura na Floresta,Terror,1993,1,130,es,EUA,Netflix,2023-08-18,FALSE
+200341,Drama da Vida Real,Terror,1999,3,134,de,Índia,nan,2024-01-03,FALSE
+200342,Documentário da Natureza,Acao,2009,5,129,pt,Índia,HBO Max,2024-06-09,NA
+200343,O Último Voo,Documentário,2016,5,144,es,Brasil,HBO Max,2024-05-08,TRUE
+200344,Ação Explosiva,Comédia,2023,4,82,en,Índia,Netflix,2024-04-27,TRUE
+200345,Documentário da Natureza,Ação,1991,4,122,es,Espanha,nan,2024-04-19,FALSE
+200346,Aventura na Floresta,Ficção Científica,2003,3,154,de,Coreia do Sul,HBO Max,2023-07-10,FALSE
+200347,Ação Explosiva,Drama,2008,4,151,in,França,Amazon Prime,2023-11-19,FALSE
+200348,Terror na Noite,Ficção Científica,2010,4,143,fr,Índia,Amazon Prime,2024-05-13,FALSE
+200349,Drama da Vida Real,Documentário,2022,4,94,de,Espanha,Amazon Prime,2023-06-08,FALSE
+200350,Ficção Científica 2077,Ficção Científica,1990,3,135,es,Coreia do Sul,HBO Max,2024-01-27,FALSE
+200351,Mistério da Mansão,Comédia,2020,3,76,de,EUA,Amazon Prime,2023-06-01,TRUE
+200352,Mistério da Mansão,Ação,2020,4,128,in,França,Netflix,2024-03-15,FALSE
+200353,Comédia Romântica,Acao,2009,1,143,de,Japão,Outro,2024-05-22,FALSE
+200354,Comédia Romântica,Ação,2023,4,82,pt,Coreia do Sul,HBO Max,2024-01-26,FALSE
+200355,Ficção Científica 2077,Documentário,2019,1,134,de,Índia,Amazon Prime,2023-10-29,FALSE
+200356,Documentário da Natureza,Ação,2010,4,125,pt,EUA,Netflix,2024-01-18,FALSE
+200357,Mistério da Mansão,Drama,2021,5,76,en,França,nan,2023-12-12,FALSE
+200358,Mistério da Mansão,Drama,2009,4,150,de,França,Outro,2023-07-07,FALSE
+200359,Documentário da Natureza,Ação,2021,4,150,en,Coreia do Sul,Outro,2024-06-05,FALSE
+200360,Terror na Noite,Documentário,2016,5,127,es,França,Netflix,2024-03-24,FALSE
+200361,O Último Voo,Drama,1997,5,175,pt,Espanha,Amazon Prime,2023-09-21,TRUE
+200362,Drama da Vida Real,Documentário,1997,5,168,pt,Coreia do Sul,Netflix,2023-12-27,FALSE
+200363,Drama da Vida Real,Terror,2009,3,97,po,Japão,Outro,2024-03-26,sim
+200364,Terror na Noite,Drama,2018,5,160,de,Espanha,nan,2023-06-27,TRUE
+200365,Mistério da Mansão,Comedia,2022,4,124,de,EUA,HBO Max,2023-09-03,TRUE
+200366,Aventura na Floresta,Ficção Científica,2006,5,105,in,EUA,HBO Max,2024-04-09,FALSE
+200367,Documentário da Natureza,Comédia,2020,5,151,es,França,HBO Max,2023-10-09,TRUE
+200368,Documentário da Natureza,Terror,2014,4,113,es,França,Amazon Prime,2024-06-01,TRUE
+200369,Ação Explosiva,Ficção Científica,1998,2,158,en,Brasil,Outro,2024-06-24,TRUE
+200370,Drama da Vida Real,Terror,2013,4,94,en,EUA,Netflix,2024-02-13,TRUE
+200371,Drama da Vida Real,Documentário,1991,5,81,en,Brasil,HBO Max,2023-06-13,FALSE
+200372,Drama da Vida Real,Ação,2021,4,162,es,Espanha,Amazon Prime,2023-12-18,FALSE
+200373,Documentário da Natureza,Comedia,2005,4,89,pt,Coreia do Sul,HBO Max,2024-04-28,FALSE
+200374,Mistério da Mansão,Ação,2022,5,107,en,Coreia do Sul,HBO Max,2023-07-30,FALSE
+200375,Documentário da Natureza,Ação,2008,4,158,de,França,Outro,2023-09-01,FALSE
+200376,Drama da Vida Real,Documentário,2014,4,89,es,Espanha,Amazon Prime,2023-08-29,FALSE
+200377,Aventura na Floresta,Drama,2007,3,154,fr,Brasil,Amazon Prime,2024-02-07,TRUE
+200378,Aventura na Floresta,Documentário,2018,4,86,pt,Espanha,HBO Max,2024-01-04,FALSE
+200379,Mistério da Mansão,Drama,2017,5,73,en,Espanha,Netflix,2023-06-13,TRUE
+200380,O Último Voo,Ficção Científica,2023,5,101,es,Coreia do Sul,Amazon Prime,2024-06-03,FALSE
+200381,O Último Voo,Comédia,2019,5,143,es,Coreia do Sul,Outro,2024-01-14,FALSE
+200382,Drama da Vida Real,Terror,1992,4,128,fr,EUA,Amazon Prime,2024-01-12,TRUE
+200383,Ficção Científica 2077,Ficção Científica,2001,5,141,de,Japão,Netflix,2023-11-09,FALSE
+200384,Aventura na Floresta,Terror,1993,5,97,es,EUA,Netflix,2023-10-10,FALSE
+200385,Ação Explosiva,Ação,2005,5,178,fr,França,Amazon Prime,2023-09-07,FALSE
+200386,Drama da Vida Real,Drama,2016,4,166,de,Índia,Netflix,2023-06-01,FALSE
+200387,Drama da Vida Real,Documentário,2008,3,137,pt,Coreia do Sul,Netflix,2024-02-29,FALSE
+200388,Mistério da Mansão,Ficção Científica,2007,4,84,fr,EUA,Amazon Prime,2024-05-24,FALSE
+200389,O Último Voo,Ficção Científica,1991,5,88,fr,Espanha,Amazon Prime,2024-02-24,FALSE
+200390,Ação Explosiva,Drama,1997,2,126,de,França,Amazon Prime,2024-03-24,FALSE
+200391,Drama da Vida Real,Comédia,2007,4,93,de,EUA,Amazon Prime,2024-01-27,FALSE
+200392,Ação Explosiva,Ficção Científica,2011,5,177,es,Brasil,Netflix,2024-04-13,TRUE
+200393,Ficção Científica 2077,Terror,2008,4,156,de,EUA,Amazon Prime,2023-11-21,sim
+200394,Terror na Noite,Ficção Científica,2015,3,111,in,Espanha,Amazon Prime,2023-06-08,TRUE
+200395,Aventura na Floresta,Drama,1990,4,162,es,França,Amazon Prime,2024-03-23,FALSE
+200396,Terror na Noite,Comédia,1992,4,101,es,França,nan,2023-09-18,FALSE
+200397,Terror na Noite,Drama,2007,5,142,pt,Índia,Netflix,2024-05-01,FALSE
+200398,Drama da Vida Real,Drama,1996,5,152,de,Espanha,Netflix,2023-07-08,FALSE
+200399,Ação Explosiva,Drama,2014,3,94,es,França,Amazon Prime,2023-12-22,FALSE
+200400,Documentário da Natureza,Ficção Científica,2019,4,70,de,Brasil,Amazon Prime,2023-06-11,TRUE
+200401,O Último Voo,Terror,2015,4,114,pt,Japão,HBO Max,2024-02-19,TRUE
+200402,Terror na Noite,Acao,2002,4,148,de,EUA,HBO Max,2023-07-28,FALSE
+200403,Comédia Romântica,Comédia,2018,4,72,pt,Brasil,HBO Max,2023-12-02,FALSE
+200404,Drama da Vida Real,Documentário,1996,5,107,es,Espanha,Amazon Prime,2023-10-25,FALSE
+200405,Aventura na Floresta,Documentário,2009,5,138,pt,EUA,nan,2024-03-31,FALSE
+200406,O Último Voo,Documentário,1995,4,94,en,Brasil,Netflix,2023-09-13,FALSE
+200407,Ação Explosiva,Comédia,2019,4,87,pt,Coreia do Sul,Outro,2024-06-26,TRUE
+200408,Drama da Vida Real,Comédia,2017,4,118,pt,Coreia do Sul,Amazon Prime,2023-11-23,FALSE
+200409,Terror na Noite,Ação,2004,1,162,es,Espanha,Netflix,2024-01-05,FALSE
+200410,Comédia Romântica,Comédia,1994,5,110,es,EUA,Amazon Prime,2023-11-24,TRUE
+200411,Aventura na Floresta,Documentário,2003,4,144,pt,Espanha,nan,2024-02-01,TRUE
+200412,Drama da Vida Real,Ficção Científica,1996,2,102,in,EUA,HBO Max,2023-07-31,FALSE
+200413,Terror na Noite,Ficção Científica,2006,4,83,en,Índia,Netflix,2024-04-09,FALSE
+200414,Terror na Noite,Drama,2011,5,114,en,Brasil,HBO Max,2024-03-13,FALSE
+200415,Mistério da Mansão,Acao,2005,5,143,de,Coreia do Sul,Netflix,2024-02-11,FALSE
+200416,Mistério da Mansão,Documentário,2006,5,110,pt,Índia,HBO Max,2023-06-25,FALSE
+200417,Ficção Científica 2077,Comédia,2005,5,114,de,Coreia do Sul,Netflix,2024-04-05,TRUE
+200418,Ação Explosiva,Ação,2022,4,160,en,Índia,Netflix,2023-10-01,FALSE
+200419,O Último Voo,Ficção Científica,2015,3,145,en,EUA,Amazon Prime,2023-11-24,TRUE
+200420,Aventura na Floresta,Ficção Científica,1997,5,132,en,Espanha,Netflix,2023-06-25,FALSE
+200421,Aventura na Floresta,Drama,2008,3,120,de,Japão,Amazon Prime,2024-04-27,FALSE
+200422,Ação Explosiva,Comédia,2017,5,177,en,Brasil,Outro,2024-04-07,FALSE
+200423,Aventura na Floresta,Ação,1999,4,109,pt,EUA,Netflix,2023-12-19,NA
+200424,Ficção Científica 2077,Terror,2014,5,165,en,EUA,Outro,2023-12-16,FALSE
+200425,Aventura na Floresta,Comédia,2015,5,74,pt,Espanha,nan,2024-01-08,TRUE
+200426,Ação Explosiva,Ação,1992,2,163,en,Espanha,HBO Max,2023-11-08,TRUE
+200427,Documentário da Natureza,Comédia,2011,5,167,es,França,HBO Max,2023-09-09,NA
+200428,Terror na Noite,Documentário,2010,3,100,fr,EUA,HBO Max,2024-01-24,FALSE
+200429,Aventura na Floresta,Acao,1992,4,174,fr,França,Netflix,2023-12-27,FALSE
+200430,Terror na Noite,Ação,2013,4,121,es,França,Amazon Prime,2024-01-29,FALSE
+200431,Drama da Vida Real,Ação,2011,3,140,es,Brasil,Outro,2024-05-01,TRUE
+200432,Mistério da Mansão,Drama,1990,4,84,pt,Coreia do Sul,HBO Max,2023-06-13,FALSE
+200433,Ficção Científica 2077,Documentário,2013,5,168,de,Brasil,nan,2024-04-30,TRUE
+200434,O Último Voo,Acao,2008,3,109,fr,Coreia do Sul,nan,2023-12-12,FALSE
+200435,aventura na floresta,Ficção Científica,2009,3,91,es,Índia,HBO Max,2023-06-25,TRUE
+200436,Aventura na Floresta,Comédia,2004,4,172,fr,Brasil,Netflix,2024-02-10,sim
+200437,Ficção Científica 2077,Drama,2004,3,155,en,Brasil,Netflix,2023-07-19,FALSE
+200438,Ficção Científica 2077,Ficção Científica,2007,3,72,de,Brasil,HBO Max,2024-02-25,FALSE
+200439,Drama da Vida Real,Documentário,2013,3,231,fr,Coreia do Sul,Netflix,2024-03-25,FALSE
+200440,Ação Explosiva,Ficção Científica,2011,5,89,pt,Espanha,Netflix,2024-05-03,FALSE
+200441,Terror na Noite,Documentário,2008,2,156,pt,Espanha,Netflix,2024-02-21,FALSE
+200442,Drama da Vida Real,Terror,1995,5,159,pt,Japão,HBO Max,2023-10-29,TRUE
+200443,Ficção Científica 2077,Ficção Científica,2002,4,131,fr,Índia,Netflix,2024-04-06,FALSE
+200444,Drama da Vida Real,Documentário,2014,1,111,de,França,nan,2023-10-08,FALSE
+200445,Terror na Noite,Ficção Científica,1996,5,175,fr,Índia,Outro,2024-06-27,TRUE
+200446,Ação Explosiva,Ação,2011,2,233,es,Índia,Amazon Prime,2024-01-08,NA
+200447,O Último Voo,Ficção Científica,2020,4,150,en,França,Amazon Prime,2023-06-26,FALSE
+200448,Aventura na Floresta,Ação,2005,1,147,es,Coreia do Sul,Amazon Prime,2023-12-05,FALSE
+200449,O Último Voo,Comédia,2016,4,80,en,Japão,Amazon Prime,2023-10-26,TRUE
+200450,Ação Explosiva,Drama,2004,3,95,en,Brasil,Amazon Prime,2023-09-08,TRUE
+200451,Ação Explosiva,Terror,2013,4,179,de,Coreia do Sul,nan,2024-03-28,FALSE
+200452,Ação Explosiva,Terror,2008,5,166,pt,EUA,HBO Max,2024-03-19,FALSE
+200453,Comédia Romântica,Documentário,2007,3,158,fr,França,Netflix,2024-05-26,FALSE
+200454,Drama da Vida Real,Documentário,1996,4,85,pt,Japão,nan,2023-09-25,TRUE
+200455,Comédia Romântica,Drama,2013,5,79,en,EUA,HBO Max,2024-03-21,TRUE
+200456,Mistério da Mansão,Ação,2004,5,93,fr,Índia,HBO Max,2024-04-30,TRUE
+200457,Ficção Científica 2077,Ação,1992,5,169,de,EUA,Outro,2024-04-24,FALSE
+200458,Ficção Científica 2077,Drama,2023,4,166,en,Índia,Netflix,2023-11-03,sim
+200459,Terror na Noite,Terror,2004,4,249,en,Brasil,nan,2023-09-05,NA
+200460,Ação Explosiva,Terror,1992,3,112,de,França,Netflix,2023-10-01,FALSE
+200461,Ação Explosiva,Ficção Científica,2021,5,165,fr,França,Amazon Prime,2024-01-15,TRUE
+200462,Ficção Científica 2077,Terror,1992,4,140,es,França,Netflix,2023-12-13,TRUE
+200463,Drama da Vida Real,Comedia,2008,4,152,de,Japão,nan,2024-04-22,FALSE
+200464,Terror na Noite,Documentário,2014,4,130,fr,França,Amazon Prime,2023-11-16,TRUE
+200465,Terror na Noite,Drama,1993,3,169,es,Japão,Netflix,2023-07-23,TRUE
+200466,Drama da Vida Real,Ficção Científica,2001,5,112,es,EUA,HBO Max,2024-01-05,FALSE
+200467,Terror na Noite,Drama,2006,2,146,de,França,nan,2023-06-29,FALSE
+200468,Ficção Científica 2077,Documentário,2018,5,119,fr,EUA,Outro,2023-09-10,TRUE
+200469,Ficção Científica 2077,Ação,2004,4,114,fr,Coreia do Sul,HBO Max,2024-03-27,TRUE
+200470,O Último Voo,Documentário,2003,5,78,pt,França,Outro,2023-08-19,FALSE
+200471,Ação Explosiva,Terror,2009,5,162,en,Espanha,HBO Max,2024-03-06,TRUE
+200472,O Último Voo,Comédia,2014,5,91,pt,Espanha,Amazon Prime,2023-11-06,TRUE
+200473,O Último Voo,Comédia,2008,3,92,en,Japão,HBO Max,2023-07-18,TRUE
+200474,Comédia Romântica,Comédia,2022,3,70,es,Japão,Amazon Prime,2023-10-22,TRUE
+200475,Aventura na Floresta,Comédia,2023,2,70,es,França,Amazon Prime,2024-05-12,FALSE
+200476,Aventura na Floresta,Documentário,2005,5,169,es,Índia,HBO Max,2023-12-18,FALSE
+200477,Ficção Científica 2077,Drama,1993,4,145,de,EUA,Outro,2024-04-01,FALSE
+200478,Ação Explosiva,Terror,2017,5,133,fr,Espanha,Amazon Prime,2024-03-31,FALSE
+200479,Drama da Vida Real,Drama,2014,4,143,pt,Espanha,HBO Max,2024-05-12,sim
+200480,Ação Explosiva,Drama,1996,1,114,pt,Japão,Netflix,2024-03-13,FALSE
+200481,Aventura na Floresta,Comédia,1992,2,151,es,Índia,nan,2023-08-11,FALSE
+200482,Mistério da Mansão,Terror,2001,4,144,en,Espanha,HBO Max,2023-08-03,TRUE
+200483,Aventura na Floresta,Ação,2022,2,141,es,Espanha,Amazon Prime,2023-09-24,FALSE
+200484,Drama da Vida Real,Ação,2017,5,136,fr,França,Netflix,2024-03-14,FALSE
+200485,Aventura na Floresta,Documentário,1995,4,151,en,Coreia do Sul,Outro,2024-04-17,TRUE
+200486,Ficção Científica 2077,Drama,2008,1,73,es,Brasil,HBO Max,2023-10-30,TRUE
+200487,Terror na Noite,Terror,2021,2,167,es,França,Netflix,2023-10-30,TRUE
+200488,Aventura na Floresta,Ação,1990,1,171,pt,EUA,HBO Max,2024-01-16,TRUE
+200489,Documentário da Natureza,Documentário,2011,5,153,en,Brasil,Amazon Prime,2023-08-21,TRUE
+200490,Comédia Romântica,Documentário,2021,2,159,fr,Brasil,Netflix,2024-03-09,FALSE
+200491,Drama da Vida Real,Terror,1990,5,113,de,Espanha,Amazon Prime,2023-07-22,FALSE
+200492,O Último Voo,Terror,2020,5,153,pt,Espanha,Amazon Prime,2023-07-01,FALSE
+200493,Terror na Noite,Drama,2016,3,130,es,Coreia do Sul,Netflix,2024-03-21,FALSE
+200494,Documentário da Natureza,Ficção Científica,2001,5,92,de,Espanha,HBO Max,2024-03-01,FALSE
+200495,aventura na floresta,Ação,2014,4,167,pt,Brasil,Amazon Prime,2023-07-30,FALSE
+200496,Terror na Noite,Comédia,2010,4,97,fr,Japão,Amazon Prime,2024-04-25,TRUE
+200497,Aventura na Floresta,Comédia,2005,5,177,en,EUA,Netflix,2024-03-12,FALSE
+200498,Aventura na Floresta,Ação,1999,4,76,es,Índia,HBO Max,2024-03-23,TRUE
+200499,Documentário da Natureza,Documentário,2021,4,179,en,França,HBO Max,2024-02-07,TRUE
+200500,Drama da Vida Real,Comédia,2022,3,83,pt,Coreia do Sul,Amazon Prime,2024-03-09,FALSE
+200501,Mistério da Mansão,Drama,1991,4,76,en,Brasil,Amazon Prime,2023-10-11,FALSE
+200502,Comédia Romântica,Terror,2009,3,115,es,Índia,Amazon Prime,2023-10-18,FALSE
+200503,Aventura na Floresta,Ação,2019,3,111,de,Brasil,HBO Max,2023-11-01,TRUE
+200504,Documentário da Natureza,Comédia,1991,4,113,fr,EUA,Netflix,2023-06-04,NA
+200505,Documentário da Natureza,Comedia,2003,5,86,es,Índia,Outro,2023-06-02,FALSE
+200506,Ficção Científica 2077,Ação,2001,1,150,de,Brasil,HBO Max,2024-01-30,FALSE
+200507,Aventura na Floresta,Ação,2008,5,169,fr,Coreia do Sul,Outro,2023-11-20,TRUE
+200508,Drama da Vida Real,Documentário,2013,4,144,es,Brasil,HBO Max,2023-08-01,TRUE
+200509,Aventura na Floresta,Drama,2022,5,165,fr,Japão,HBO Max,2023-11-26,FALSE
+200510,Ação Explosiva,Drama,2010,5,97,fr,França,Netflix,2024-01-16,TRUE
+200511,Ficção Científica 2077,Terror,2010,2,106,es,EUA,Netflix,2023-12-26,FALSE
+200512,Documentário da Natureza,Documentário,2001,5,155,pt,Índia,HBO Max,2023-11-30,TRUE
+200513,Comédia Romântica,Drama,2019,5,73,es,França,HBO Max,2023-06-28,TRUE
+200514,Ficção Científica 2077,Ação,2016,4,112,pt,Japão,Netflix,2023-06-02,TRUE
+200515,Comédia Romântica,Ficção Científica,2007,2,104,de,EUA,HBO Max,2024-02-25,TRUE
+200516,Documentário da Natureza,Terror,2019,4,108,fr,Coreia do Sul,Amazon Prime,2023-06-17,FALSE
+200517,Drama da Vida Real,Ação,2015,4,174,pt,Espanha,Amazon Prime,2024-06-16,TRUE
+200518,Terror na Noite,Ficção Científica,2022,4,141,pt,Brasil,Netflix,2024-03-01,TRUE
+200519,O Último Voo,Comedia,1996,5,75,de,Coreia do Sul,Amazon Prime,2024-04-06,FALSE
+200520,Mistério da Mansão,Comédia,2011,2,145,en,Índia,HBO Max,2023-09-30,FALSE
+200521,O Último Voo,Drama,2022,4,126,fr,Japão,HBO Max,2023-08-07,FALSE
+200522,Documentário da Natureza,Comédia,2020,4,72,fr,França,Amazon Prime,2023-11-10,FALSE
+200523,Aventura na Floresta,Documentário,2002,4,146,en,França,Outro,2024-04-08,TRUE
+200524,Aventura na Floresta,Ação,2008,5,77,pt,Coreia do Sul,Netflix,2023-12-10,TRUE
+200525,Documentário da Natureza,Documentário,1995,4,149,fr,França,nan,2023-07-18,TRUE
+200526,Ficção Científica 2077,Documentário,1997,2,102,fr,Japão,Amazon Prime,2023-12-20,FALSE
+200527,Drama da Vida Real,Ficção Científica,2011,4,166,po,Coreia do Sul,Amazon Prime,2024-06-28,FALSE
+200528,Documentário da Natureza,Comédia,2022,5,127,en,Índia,Outro,2023-07-16,TRUE
+200529,Drama da Vida Real,Ação,2011,2,99,es,Espanha,Amazon Prime,2024-03-16,TRUE
+200530,Ação Explosiva,Comédia,2017,2,88,de,EUA,HBO Max,2023-12-24,TRUE
+200531,O Último Voo,Ação,2000,1,144,en,Espanha,Netflix,2024-05-12,TRUE
+200532,Aventura na Floresta,Terror,2016,4,96,de,EUA,HBO Max,2023-10-22,FALSE
+200533,Comédia Romântica,Ação,2006,5,160,de,Índia,nan,2023-06-09,FALSE
+200534,Comédia Romântica,Documentário,2012,4,167,en,Japão,Netflix,2024-03-02,TRUE
+200535,Documentário da Natureza,Comédia,2004,5,168,fr,Coreia do Sul,Netflix,2024-05-25,FALSE
+200536,Ficção Científica 2077,Ficção Científica,1992,4,167,es,França,Netflix,2023-10-15,FALSE
+200537,Terror na Noite,Comédia,2017,4,153,pt,EUA,HBO Max,2024-02-11,FALSE
+200538,Mistério da Mansão,Drama,2019,4,147,pt,Espanha,Netflix,2023-06-17,FALSE
+200539,Comédia Romântica,Drama,2013,5,138,pt,França,Netflix,2024-02-18,FALSE
+200540,Ação Explosiva,Ação,2011,3,156,de,Coreia do Sul,HBO Max,2024-04-03,FALSE
+200541,Aventura na Floresta,Terror,2003,2,146,en,Japão,HBO Max,2024-01-31,TRUE
+200542,Ação Explosiva,Drama,1998,5,161,es,Índia,HBO Max,2024-01-30,FALSE
+200543,Comédia Romântica,Ficção Científica,2006,1,96,en,França,Netflix,2023-10-17,NA
+200544,Ação Explosiva,Documentário,1996,4,159,es,EUA,Netflix,2023-07-13,FALSE
+200545,Aventura na Floresta,Comédia,1991,2,98,es,Espanha,Outro,2024-05-10,FALSE
+200546,Ação Explosiva,Documentário,2023,4,150,de,Brasil,Netflix,2024-06-05,TRUE
+200547,Documentário da Natureza,Terror,2004,2,82,pt,Brasil,Netflix,2024-02-21,FALSE
+200548,Documentário da Natureza,Ação,2001,5,118,pt,Japão,Netflix,2024-05-25,FALSE
+200549,O Último Voo,Comédia,2017,5,169,de,Espanha,Amazon Prime,2023-08-24,TRUE
+200550,Aventura na Floresta,Comédia,2014,5,162,de,Brasil,Outro,2023-10-24,TRUE
+200551,Ação Explosiva,Terror,2009,5,133,pt,Coreia do Sul,Amazon Prime,2024-05-20,FALSE
+200552,Documentário da Natureza,Comédia,2016,1,139,pt,Espanha,Amazon Prime,2024-01-03,sim
+200553,Ficção Científica 2077,Terror,2021,4,117,pt,França,nan,2024-05-28,TRUE
+200554,Ficção Científica 2077,Documentário,2017,4,138,pt,Índia,Netflix,2024-02-13,FALSE
+200555,O Último Voo,Comédia,2012,3,113,en,Índia,Outro,2023-10-20,FALSE
+200556,Ação Explosiva,Terror,2017,4,179,de,Índia,HBO Max,2023-12-23,FALSE
+200557,Ficção Científica 2077,Ficção Científica,2000,4,114,pt,Índia,Netflix,2023-06-22,sim
+200558,Documentário da Natureza,Drama,2007,2,138,en,Brasil,Amazon Prime,2023-11-24,FALSE
+200559,Comédia Romântica,Ação,2021,5,156,pt,Espanha,Netflix,2023-11-10,NA
+200560,O Último Voo,Documentário,2003,4,139,de,França,Amazon Prime,2023-07-08,TRUE
+200561,Ficção Científica 2077,Documentário,1996,4,174,po,França,Netflix,2024-03-06,TRUE
+200562,Terror na Noite,Drama,1994,3,129,de,França,nan,2023-09-26,TRUE
+200563,Comédia Romântica,Comédia,2000,5,155,de,Japão,Netflix,2023-06-12,FALSE
+200564,Ficção Científica 2077,Terror,2004,5,89,fr,Coreia do Sul,Netflix,2024-05-15,FALSE
+200565,Drama da Vida Real,Ficção Científica,2003,5,172,es,Japão,Outro,2023-11-06,TRUE
+200566,Ficção Científica 2077,Ação,2023,3,169,po,Brasil,HBO Max,2024-02-29,FALSE
+200567,Ação Explosiva,Drama,2011,5,89,in,Espanha,Amazon Prime,2024-01-22,FALSE
+200568,Comédia Romântica,Drama,2021,5,136,en,Coreia do Sul,Netflix,2024-06-23,TRUE
+200569,Drama da Vida Real,Terror,1994,3,148,fr,Japão,nan,2024-03-28,FALSE
+200570,Terror na Noite,Ficção Científica,1992,5,89,es,Japão,HBO Max,2023-12-31,NA
+200571,Drama da Vida Real,Ficção Científica,2019,5,97,fr,Japão,Amazon Prime,2023-10-02,sim
+200572,Ação Explosiva,Documentário,1998,5,131,de,EUA,nan,2024-05-26,FALSE
+200573,Documentário da Natureza,Drama,2017,4,166,de,Coreia do Sul,HBO Max,2024-06-07,NA
+200574,Drama da Vida Real,Documentário,2008,5,129,fr,Brasil,Netflix,2023-07-27,TRUE
+200575,Documentário da Natureza,Terror,2006,3,114,fr,Coreia do Sul,Netflix,2023-10-01,FALSE
+200576,Ação Explosiva,Comédia,2000,5,162,pt,Espanha,HBO Max,2024-04-22,FALSE
+200577,Documentário da Natureza,Ficção Científica,1995,5,74,de,França,Amazon Prime,2023-07-23,FALSE
+200578,Ação Explosiva,Drama,1990,3,133,de,EUA,Amazon Prime,2023-07-01,TRUE
+200579,Comédia Romântica,Comédia,1990,1,150,de,Coreia do Sul,Outro,2023-10-23,FALSE
+200580,Drama da Vida Real,Drama,2019,2,125,de,Japão,Netflix,2023-11-15,FALSE
+200581,O Último Voo,Ficção Científica,2005,4,82,de,EUA,Amazon Prime,2023-10-02,FALSE
+200582,Mistério da Mansão,Drama,1999,4,164,en,EUA,Outro,2023-11-26,FALSE
+200583,Comédia Romântica,Documentário,2002,4,164,en,Índia,Netflix,2024-01-22,FALSE
+200584,Documentário da Natureza,Documentário,1996,5,124,pt,França,Amazon Prime,2024-03-04,FALSE
+200585,aventura na floresta,Drama,2015,5,132,de,França,HBO Max,2024-01-15,TRUE
+200586,Terror na Noite,Drama,1993,4,149,pt,EUA,Netflix,2024-01-21,FALSE
+200587,O Último Voo,Documentário,2002,1,154,es,França,Netflix,2023-10-21,TRUE
+200588,O Último Voo,Comédia,2007,2,118,fr,Coreia do Sul,Netflix,2024-03-17,FALSE
+200589,O Último Voo,Ação,1998,3,113,pt,Espanha,HBO Max,2023-10-26,TRUE
+200590,O Último Voo,Ação,2023,4,161,de,EUA,HBO Max,2023-08-29,TRUE
+200591,Documentário da Natureza,Drama,2013,5,113,es,Brasil,Netflix,2024-05-10,FALSE
+200592,Comédia Romântica,Ficção Científica,2008,4,168,es,França,Amazon Prime,2024-06-27,TRUE
+200593,Terror na Noite,Acao,1990,3,71,pt,EUA,Netflix,2023-11-20,sim
+200594,aventura na floresta,Documentário,2017,5,71,en,Espanha,Netflix,2023-09-06,FALSE
+200595,Documentário da Natureza,Comédia,2020,4,105,fr,Coreia do Sul,HBO Max,2024-03-31,TRUE
+200596,Ação Explosiva,Terror,2014,2,130,es,EUA,Amazon Prime,2023-11-30,FALSE
+200597,Terror na Noite,Documentário,1992,4,149,de,França,nan,2024-04-16,FALSE
+200598,Ação Explosiva,Ficção Científica,2002,4,75,pt,Japão,Outro,2024-01-25,NA
+200599,Mistério da Mansão,Ficção Científica,1995,2,95,en,França,Amazon Prime,2024-03-19,FALSE
+200600,Ficção Científica 2077,Documentário,1996,3,150,pt,França,Netflix,2024-06-01,FALSE
+200601,Terror na Noite,Ficção Científica,2011,4,154,de,Brasil,Amazon Prime,2023-12-26,TRUE
+200602,O Último Voo,Comedia,2003,4,145,pt,Japão,nan,2023-07-16,FALSE
+200603,Comédia Romântica,Drama,2019,4,151,de,Espanha,Outro,2023-10-30,TRUE
+200604,Ficção Científica 2077,Terror,2000,4,157,en,Índia,Outro,2023-10-26,NA
+200605,Ação Explosiva,Comédia,2006,2,175,in,Japão,HBO Max,2023-07-01,TRUE
+200606,Documentário da Natureza,Terror,2011,4,154,en,Coreia do Sul,nan,2024-05-24,TRUE
+200607,O Último Voo,Documentário,2006,4,141,de,EUA,Outro,2023-07-14,TRUE
+200608,O Último Voo,Ação,2023,4,152,es,EUA,Netflix,2023-10-12,FALSE
+200609,Documentário da Natureza,Drama,2009,5,76,pt,Espanha,Netflix,2023-11-06,FALSE
+200610,Aventura na Floresta,Ação,2021,3,160,fr,Espanha,nan,2023-06-14,FALSE
+200611,Comédia Romântica,Comédia,2007,4,77,de,EUA,Netflix,2024-06-26,FALSE
+200612,Ficção Científica 2077,Ficção Científica,1996,2,128,en,Coreia do Sul,Amazon Prime,2024-01-05,FALSE
+200613,aventura na floresta,Drama,2016,3,123,de,Índia,Netflix,2024-05-19,FALSE
+200614,Comédia Romântica,Terror,2023,5,151,en,França,Netflix,2024-06-10,FALSE
+200615,Ação Explosiva,Ação,2003,3,79,fr,Coreia do Sul,Outro,2023-08-23,TRUE
+200616,Ação Explosiva,Documentário,1998,3,85,pt,Japão,HBO Max,2023-06-05,sim
+200617,Ficção Científica 2077,Terror,2019,1,176,fr,Índia,Amazon Prime,2023-06-11,TRUE
+200618,Drama da Vida Real,Drama,1995,5,104,es,Coreia do Sul,Outro,2024-05-11,FALSE
+200619,Documentário da Natureza,Ação,2023,4,78,en,Coreia do Sul,Netflix,2023-10-12,TRUE
+200620,Ficção Científica 2077,Terror,1990,4,178,es,Japão,Amazon Prime,2024-05-31,TRUE
+200621,Mistério da Mansão,Ação,2011,4,130,fr,Japão,nan,2023-08-31,FALSE
+200622,Terror na Noite,Drama,2009,4,107,es,Coreia do Sul,Outro,2023-07-11,FALSE
+200623,Comédia Romântica,Acao,2011,2,152,pt,Japão,Outro,2023-06-30,sim
+200624,Comédia Romântica,Documentário,2015,5,139,pt,Coreia do Sul,nan,2024-06-03,TRUE
+200625,O Último Voo,Acao,2019,4,149,en,Japão,HBO Max,2024-02-04,TRUE
+200626,Terror na Noite,Comédia,1994,4,144,pt,França,Outro,2023-11-22,TRUE
+200627,Mistério da Mansão,Ficção Científica,2008,3,128,es,Índia,HBO Max,2023-08-19,FALSE
+200628,Terror na Noite,Ficção Científica,2003,2,98,fr,Espanha,Amazon Prime,2024-06-26,FALSE
+200629,Comédia Romântica,Drama,2006,4,176,fr,Japão,Netflix,2023-10-25,FALSE
+200630,Comédia Romântica,Ação,2013,5,120,en,França,Netflix,2024-01-27,TRUE
+200631,Mistério da Mansão,Ficção Científica,2013,5,90,fr,França,Netflix,2024-02-26,FALSE
+200632,Mistério da Mansão,Comédia,1992,5,178,es,Coreia do Sul,Netflix,2023-07-31,FALSE
+200633,Aventura na Floresta,Comédia,2016,3,138,pt,Coreia do Sul,HBO Max,2023-09-13,TRUE
+200634,Mistério da Mansão,Drama,2007,4,109,fr,Japão,Netflix,2024-03-06,FALSE
+200635,Mistério da Mansão,Ação,1990,5,104,pt,EUA,Amazon Prime,2024-06-02,TRUE
+200636,Aventura na Floresta,Documentário,2016,2,126,pt,Coreia do Sul,Outro,2024-02-24,TRUE
+200637,Aventura na Floresta,Terror,2022,5,74,en,Coreia do Sul,Amazon Prime,2023-11-01,TRUE
+200638,Drama da Vida Real,Ação,1994,4,97,fr,Espanha,Outro,2024-01-02,FALSE
+200639,Ficção Científica 2077,Ação,1990,5,155,en,Coreia do Sul,Amazon Prime,2024-01-21,FALSE
+200640,Ação Explosiva,Ficção Científica,2015,5,119,fr,Índia,HBO Max,2023-11-11,FALSE
+200641,Comédia Romântica,Comedia,2013,5,80,es,EUA,HBO Max,2023-06-07,FALSE
+200642,Drama da Vida Real,Drama,2016,5,146,pt,EUA,HBO Max,2023-10-08,FALSE
+200643,Ação Explosiva,Comédia,2005,2,159,pt,Japão,Netflix,2023-10-16,NA
+200644,O Último Voo,Documentário,2012,4,78,en,Coreia do Sul,HBO Max,2024-04-12,sim
+200645,Mistério da Mansão,Comédia,2021,5,127,fr,Japão,Outro,2023-12-02,FALSE
+200646,Mistério da Mansão,Documentário,2006,2,167,es,Brasil,Amazon Prime,2024-05-12,FALSE
+200647,Terror na Noite,Ação,2000,5,179,en,EUA,Amazon Prime,2024-06-06,FALSE
+200648,Ficção Científica 2077,Ação,1997,4,71,pt,França,nan,2023-06-08,TRUE
+200649,O Último Voo,Comédia,2015,3,152,de,Japão,Netflix,2023-09-10,FALSE
+200650,Ação Explosiva,Ação,1991,3,174,po,Espanha,Netflix,2023-09-16,TRUE
+200651,Aventura na Floresta,Comédia,2014,3,71,es,Índia,Netflix,2024-05-31,TRUE
+200652,Terror na Noite,Terror,1994,5,82,es,Índia,Amazon Prime,2024-02-11,FALSE
+200653,Aventura na Floresta,Ação,1991,3,169,fr,EUA,Amazon Prime,2023-07-20,FALSE
+200654,Ficção Científica 2077,Drama,2007,3,75,es,Coreia do Sul,Outro,2024-06-26,TRUE
+200655,Ação Explosiva,Ação,2013,4,174,fr,Coreia do Sul,Amazon Prime,2023-11-20,TRUE
+200656,Ficção Científica 2077,Ação,2019,5,107,de,Brasil,Netflix,2023-06-10,NA
+200657,aventura na floresta,Terror,2016,5,103,es,Japão,Amazon Prime,2024-04-22,TRUE
+200658,Documentário da Natureza,Ação,2016,5,93,in,Coreia do Sul,Netflix,2023-11-11,FALSE
+200659,O Último Voo,Ficção Científica,2002,5,135,po,França,Netflix,2023-11-03,FALSE
+200660,Drama da Vida Real,Drama,2021,4,154,fr,Espanha,Netflix,2024-02-04,TRUE
+200661,aventura na floresta,Ficção Científica,2005,4,75,de,EUA,nan,2024-03-08,TRUE
+200662,O Último Voo,Drama,2017,4,102,es,Brasil,Netflix,2024-06-02,TRUE
+200663,O Último Voo,Terror,2006,2,159,en,Japão,Amazon Prime,2023-12-23,sim
+200664,Aventura na Floresta,Ficção Científica,1998,3,75,en,Índia,Netflix,2024-02-11,FALSE
+200665,Mistério da Mansão,Ficção Científica,1992,5,161,es,França,Outro,2023-10-02,TRUE
+200666,Mistério da Mansão,Terror,1990,3,154,en,Índia,Amazon Prime,2023-07-11,FALSE
+200667,Ficção Científica 2077,Terror,2011,3,109,in,Japão,HBO Max,2023-10-23,TRUE
+200668,Aventura na Floresta,Ação,1991,5,133,pt,Coreia do Sul,Netflix,2023-11-19,FALSE
+200669,Comédia Romântica,Terror,2002,5,121,pt,Índia,nan,2023-11-16,TRUE
+200670,Ficção Científica 2077,Ação,2015,2,146,en,Japão,HBO Max,2024-06-16,FALSE
+200671,Ficção Científica 2077,Drama,2004,4,167,es,Índia,HBO Max,2024-03-24,FALSE
+200672,Ação Explosiva,Ação,2012,4,75,es,Índia,nan,2024-06-14,TRUE
+200673,Terror na Noite,Ação,1994,3,148,es,Japão,Amazon Prime,2024-04-13,TRUE
+200674,Ficção Científica 2077,Drama,1996,3,162,fr,Brasil,Netflix,2023-07-28,TRUE
+200675,Documentário da Natureza,Ficção Científica,2004,3,71,en,França,Netflix,2023-09-14,TRUE
+200676,Ação Explosiva,Terror,2013,3,133,en,Japão,HBO Max,2023-11-13,TRUE
+200677,Comédia Romântica,Comédia,1995,4,166,en,EUA,Amazon Prime,2024-06-22,TRUE
+200678,Terror na Noite,Comédia,1995,4,70,es,Coreia do Sul,nan,2024-05-09,TRUE
+200679,Ficção Científica 2077,Ação,1998,1,93,pt,Brasil,HBO Max,2023-11-20,FALSE
+200680,Ação Explosiva,Terror,2001,3,139,en,EUA,Netflix,2024-03-24,FALSE
+200681,Drama da Vida Real,Drama,2005,4,155,fr,Coreia do Sul,HBO Max,2023-10-21,TRUE
+200682,Ficção Científica 2077,Documentário,2011,5,91,en,Índia,Netflix,2024-02-21,FALSE
+200683,O Último Voo,Documentário,2018,4,125,pt,Brasil,Amazon Prime,2024-03-03,FALSE
+200684,Drama da Vida Real,Comédia,1996,4,101,fr,França,Amazon Prime,2024-05-06,FALSE
+200685,Documentário da Natureza,Terror,2017,4,136,pt,EUA,HBO Max,2024-02-01,FALSE
+200686,Ficção Científica 2077,Terror,2000,4,163,en,Espanha,Amazon Prime,2024-04-03,FALSE
+200687,Mistério da Mansão,Ação,2006,2,116,po,Brasil,Amazon Prime,2023-11-02,FALSE
+200688,Drama da Vida Real,Terror,1994,4,148,in,Espanha,HBO Max,2024-01-07,TRUE
+200689,Drama da Vida Real,Comédia,2009,5,129,pt,Japão,Amazon Prime,2023-06-19,FALSE
+200690,Documentário da Natureza,Terror,1999,5,78,fr,França,Amazon Prime,2023-12-15,FALSE
+200691,Documentário da Natureza,Terror,2018,3,175,de,Índia,Outro,2023-08-06,FALSE
+200692,O Último Voo,Documentário,2020,4,150,de,Japão,Amazon Prime,2024-04-18,FALSE
+200693,Documentário da Natureza,Terror,1993,4,74,pt,EUA,Netflix,2023-09-22,sim
+200694,O Último Voo,Drama,2000,3,131,es,Espanha,Amazon Prime,2023-06-13,TRUE
+200695,O Último Voo,Terror,2012,3,103,de,EUA,nan,2023-06-23,TRUE
+200696,Comédia Romântica,Ação,1999,2,93,pt,Coreia do Sul,Netflix,2023-12-20,FALSE
+200697,Ação Explosiva,Ação,2007,3,138,pt,Brasil,HBO Max,2023-06-24,FALSE
+200698,Ficção Científica 2077,Comédia,2023,4,95,fr,Índia,HBO Max,2023-06-18,FALSE
+200699,Ação Explosiva,Ficção Científica,1995,5,116,fr,Brasil,Netflix,2024-01-26,FALSE
+200700,Aventura na Floresta,Terror,2018,4,146,fr,EUA,Netflix,2024-03-24,FALSE
+200701,Documentário da Natureza,Drama,2019,5,171,de,França,Amazon Prime,2024-03-15,TRUE
+200702,Aventura na Floresta,Terror,2023,4,137,es,França,nan,2023-06-05,FALSE
+200703,Drama da Vida Real,Terror,2016,4,109,en,Espanha,nan,2023-06-20,TRUE
+200704,Terror na Noite,Documentário,1998,4,133,de,Brasil,Amazon Prime,2023-08-12,FALSE
+200705,Mistério da Mansão,Drama,2013,4,130,es,Japão,HBO Max,2023-07-26,FALSE
+200706,O Último Voo,Acao,1990,4,119,de,Espanha,Amazon Prime,2023-12-21,TRUE
+200707,Terror na Noite,Drama,2007,4,117,de,Japão,Outro,2024-04-24,TRUE
+200708,Ficção Científica 2077,Terror,1993,3,144,en,Japão,Amazon Prime,2024-01-19,FALSE
+200709,Terror na Noite,Comédia,1996,3,128,es,Espanha,HBO Max,2024-06-05,TRUE
+200710,O Último Voo,Drama,2006,3,149,es,EUA,Amazon Prime,2023-09-10,FALSE
+200711,O Último Voo,Comédia,2003,4,97,en,EUA,Netflix,2023-10-09,NA
+200712,Terror na Noite,Comédia,2018,3,176,en,Índia,HBO Max,2023-09-02,FALSE
+200713,Ficção Científica 2077,Ficção Científica,2005,4,139,es,Espanha,Netflix,2023-10-11,TRUE
+200714,Terror na Noite,Drama,2019,5,172,es,EUA,Outro,2023-07-18,TRUE
+200715,Ação Explosiva,Documentário,2011,4,172,in,EUA,Netflix,2024-03-02,FALSE
+200716,Ficção Científica 2077,Ficção Científica,1998,1,149,pt,Japão,Netflix,2023-10-06,TRUE
+200717,O Último Voo,Comédia,2013,3,101,es,EUA,HBO Max,2023-08-29,FALSE
+200718,Documentário da Natureza,Drama,1992,4,112,de,Japão,Amazon Prime,2024-04-21,TRUE
+200719,Comédia Romântica,Ficção Científica,1990,3,137,de,EUA,nan,2023-11-30,FALSE
+200720,Ficção Científica 2077,Ação,2019,5,98,pt,Japão,Netflix,2024-01-18,FALSE
+200721,Ficção Científica 2077,Documentário,1992,5,77,de,EUA,HBO Max,2024-04-18,FALSE
+200722,O Último Voo,Comédia,2010,5,179,es,Índia,Amazon Prime,2023-12-07,NA
+200723,Documentário da Natureza,Terror,2017,3,101,de,Japão,Netflix,2023-09-06,TRUE
+200724,Drama da Vida Real,Ação,2007,5,96,fr,França,Netflix,2023-10-22,FALSE
+200725,O Último Voo,Comédia,1997,4,90,es,Espanha,nan,2024-06-05,FALSE
+200726,Ação Explosiva,Comedia,1994,5,77,pt,Índia,Netflix,2024-06-24,TRUE
+200727,Terror na Noite,Ficção Científica,2014,4,101,de,Japão,Netflix,2023-10-20,TRUE
+200728,Terror na Noite,Terror,2010,4,87,de,Índia,HBO Max,2023-09-19,FALSE
+200729,Terror na Noite,Ação,2006,5,164,en,França,nan,2023-08-03,NA
+200730,Mistério da Mansão,Terror,2013,1,140,en,Japão,Amazon Prime,2023-12-06,TRUE
+200731,O Último Voo,Drama,2003,5,72,de,Brasil,HBO Max,2024-03-03,FALSE
+200732,Ficção Científica 2077,Ação,2020,3,173,pt,Espanha,HBO Max,2023-11-10,NA
+200733,Ação Explosiva,Comédia,1991,2,100,pt,Espanha,Netflix,2024-04-09,FALSE
+200734,Ação Explosiva,Drama,2020,5,112,de,Índia,Netflix,2023-10-21,TRUE
+200735,Comédia Romântica,Terror,2005,4,108,en,França,Amazon Prime,2023-09-30,FALSE
+200736,aventura na floresta,Comédia,2013,4,121,es,Japão,Amazon Prime,2024-02-28,FALSE
+200737,Mistério da Mansão,Comédia,2005,4,165,fr,França,nan,2023-12-05,FALSE
+200738,Aventura na Floresta,Ação,1995,3,113,fr,França,Netflix,2024-05-09,FALSE
+200739,Comédia Romântica,Comedia,1995,5,160,de,EUA,Netflix,2023-07-05,TRUE
+200740,Comédia Romântica,Drama,2016,3,148,pt,França,nan,2023-08-25,FALSE
+200741,Ação Explosiva,Terror,1994,5,87,pt,França,Netflix,2023-07-26,TRUE
+200742,Drama da Vida Real,Documentário,2017,4,131,fr,EUA,Netflix,2023-09-26,TRUE
+200743,Documentário da Natureza,Comédia,1993,5,168,fr,Brasil,Netflix,2023-07-10,FALSE
+200744,Comédia Romântica,Ação,2012,3,177,es,EUA,HBO Max,2023-08-06,FALSE
+200745,Comédia Romântica,Ficção Científica,2013,4,170,de,Índia,nan,2024-01-12,FALSE
+200746,Ficção Científica 2077,Documentário,2017,4,129,fr,Coreia do Sul,Netflix,2024-04-20,TRUE
+200747,O Último Voo,Drama,2011,4,135,fr,EUA,Outro,2023-07-01,TRUE
+200748,O Último Voo,Documentário,2009,5,108,fr,Espanha,HBO Max,2024-05-02,TRUE
+200749,Ficção Científica 2077,Terror,1991,2,153,es,França,Netflix,2023-08-04,TRUE
+200750,Drama da Vida Real,Comédia,2020,4,132,fr,Índia,Netflix,2023-08-30,FALSE
+200751,O Último Voo,Drama,2003,4,142,de,Índia,nan,2023-11-20,TRUE
+200752,Drama da Vida Real,Acao,1996,2,169,de,Coreia do Sul,Outro,2024-03-17,FALSE
+200753,Ação Explosiva,Terror,2007,4,73,en,Coreia do Sul,Netflix,2023-11-16,FALSE
+200754,Documentário da Natureza,Comédia,2022,3,178,es,Espanha,Outro,2024-04-15,FALSE
+200755,Aventura na Floresta,Ficção Científica,2014,1,106,es,Brasil,HBO Max,2024-01-21,TRUE
+200756,Drama da Vida Real,Comedia,1994,3,98,fr,Espanha,HBO Max,2024-03-12,sim
+200757,Terror na Noite,Drama,1996,3,78,en,Coreia do Sul,Amazon Prime,2024-01-29,NA
+200758,Comédia Romântica,Documentário,1996,4,71,de,Brasil,HBO Max,2024-06-29,TRUE
+200759,Comédia Romântica,Terror,2008,1,159,pt,Índia,Netflix,2023-11-07,FALSE
+200760,Mistério da Mansão,Ação,2014,1,156,en,Índia,Outro,2023-07-02,TRUE
+200761,Terror na Noite,Documentário,2002,4,71,es,EUA,Outro,2023-12-15,TRUE
+200762,Comédia Romântica,Ficção Científica,2017,5,131,es,Índia,Netflix,2023-11-03,TRUE
+200763,Ação Explosiva,Ficção Científica,2001,5,94,pt,França,Outro,2023-12-14,FALSE
+200764,Ação Explosiva,Terror,1994,3,127,es,Coreia do Sul,nan,2024-02-26,FALSE
+200765,O Último Voo,Documentário,1997,2,159,de,Índia,HBO Max,2024-05-20,TRUE
+200766,Documentário da Natureza,Documentário,1990,5,157,en,Espanha,Amazon Prime,2024-05-14,FALSE
+200767,O Último Voo,Documentário,1991,4,154,de,Índia,Amazon Prime,2023-10-04,FALSE
+200768,Documentário da Natureza,Documentário,1993,5,125,de,EUA,Netflix,2024-01-17,TRUE
+200769,Comédia Romântica,Comédia,2012,4,155,en,Coreia do Sul,nan,2024-04-18,TRUE
+200770,Documentário da Natureza,Comédia,2006,1,121,fr,França,Amazon Prime,2023-12-07,sim
+200771,Mistério da Mansão,Ação,2017,2,159,de,Espanha,HBO Max,2024-01-01,TRUE
+200772,Terror na Noite,Terror,1994,1,97,fr,Espanha,Netflix,2024-01-05,FALSE
+200773,Terror na Noite,Drama,2009,4,169,de,Japão,Amazon Prime,2024-06-28,FALSE
+200774,Terror na Noite,Ficção Científica,2016,3,106,en,Brasil,HBO Max,2023-06-03,FALSE
+200775,Ficção Científica 2077,Ação,2016,3,178,en,Coreia do Sul,Amazon Prime,2024-04-19,TRUE
+200776,Drama da Vida Real,Documentário,1996,3,75,es,Coreia do Sul,nan,2023-07-22,TRUE
+200777,O Último Voo,Acao,2020,4,174,en,França,Outro,2024-06-08,FALSE
+200778,Terror na Noite,Ação,1999,4,111,fr,EUA,Outro,2024-03-01,TRUE
+200779,Documentário da Natureza,Terror,2011,3,169,es,Espanha,Amazon Prime,2024-06-22,FALSE
+200780,Aventura na Floresta,Comédia,2012,5,152,pt,Brasil,Netflix,2024-04-07,FALSE
+200781,Mistério da Mansão,Comédia,1990,3,142,en,Japão,Netflix,2024-03-20,sim
+200782,Documentário da Natureza,Documentário,2001,5,142,es,Japão,HBO Max,2023-06-29,FALSE
+200783,Drama da Vida Real,Comédia,1996,3,83,es,Espanha,Netflix,2024-01-18,FALSE
+200784,O Último Voo,Ação,2004,4,147,es,Brasil,Outro,2023-07-10,FALSE
+200785,Ficção Científica 2077,Ficção Científica,2017,1,143,de,EUA,Amazon Prime,2023-11-29,TRUE
+200786,Comédia Romântica,Comédia,1993,2,94,fr,Coreia do Sul,Netflix,2023-08-27,TRUE
+200787,O Último Voo,Ficção Científica,2011,4,150,de,Coreia do Sul,Outro,2023-07-06,TRUE
+200788,Mistério da Mansão,Terror,2022,3,147,en,Japão,Outro,2024-06-03,FALSE
+200789,Drama da Vida Real,Ficção Científica,2010,2,159,pt,Japão,Amazon Prime,2023-06-01,FALSE
+200790,O Último Voo,Drama,2012,4,113,pt,EUA,HBO Max,2023-07-10,FALSE
+200791,Ação Explosiva,Comédia,1992,4,143,de,EUA,Netflix,2023-10-10,TRUE
+200792,Ficção Científica 2077,Ficção Científica,1990,3,89,es,EUA,nan,2024-01-23,FALSE
+200793,Terror na Noite,Ação,2004,3,84,en,EUA,Amazon Prime,2024-01-14,FALSE
+200794,Comédia Romântica,Drama,2001,2,110,fr,Espanha,Netflix,2023-07-20,TRUE
+200795,Drama da Vida Real,Ficção Científica,2014,3,138,pt,França,Amazon Prime,2023-09-18,NA
+200796,Mistério da Mansão,Comédia,2019,4,81,fr,Espanha,HBO Max,2023-12-31,TRUE
+200797,Documentário da Natureza,Ação,2016,4,155,de,Brasil,HBO Max,2023-08-05,TRUE
+200798,Drama da Vida Real,Drama,1990,3,73,de,EUA,Outro,2023-07-19,FALSE
+200799,Mistério da Mansão,Ficção Científica,2009,4,139,in,Coreia do Sul,Amazon Prime,2024-01-27,FALSE
+200800,Terror na Noite,Terror,2001,5,97,de,EUA,Netflix,2024-04-05,TRUE
+200801,Aventura na Floresta,Comédia,2019,4,155,de,Espanha,Netflix,2024-06-18,FALSE
+200802,Comédia Romântica,Comédia,2003,2,162,pt,França,Netflix,2023-06-19,TRUE
+200803,Documentário da Natureza,Terror,2003,5,109,fr,Brasil,Netflix,2023-11-28,TRUE
+200804,Terror na Noite,Drama,2019,5,157,de,Índia,Amazon Prime,2023-07-12,FALSE
+200805,Drama da Vida Real,Ficção Científica,2014,5,73,fr,Índia,HBO Max,2023-07-04,FALSE
+200806,Mistério da Mansão,Terror,2016,3,133,es,Coreia do Sul,Amazon Prime,2024-04-19,FALSE
+200807,Ação Explosiva,Ação,2020,5,111,de,Espanha,Amazon Prime,2024-05-20,TRUE
+200808,Mistério da Mansão,Ação,2019,4,174,en,Japão,Outro,2023-08-12,TRUE
+200809,Aventura na Floresta,Documentário,1990,2,128,de,EUA,Amazon Prime,2024-02-13,NA
+200810,Documentário da Natureza,Comédia,2010,3,73,es,EUA,nan,2023-10-29,FALSE
+200811,Ação Explosiva,Documentário,2003,5,89,pt,Coreia do Sul,nan,2024-01-03,TRUE
+200812,Drama da Vida Real,Ficção Científica,1995,5,127,de,Índia,Netflix,2023-09-17,FALSE
+200813,Ficção Científica 2077,Terror,2001,2,92,in,Brasil,Amazon Prime,2024-04-04,FALSE
+200814,O Último Voo,Documentário,2008,5,107,es,Espanha,Outro,2023-07-15,FALSE
+200815,Documentário da Natureza,Terror,2015,4,73,po,EUA,Amazon Prime,2024-02-20,FALSE
+200816,Documentário da Natureza,Ação,2003,3,157,pt,Índia,HBO Max,2023-06-09,FALSE
+200817,O Último Voo,Terror,2007,4,127,de,Japão,HBO Max,2024-06-13,TRUE
+200818,Mistério da Mansão,Ação,2003,2,108,en,Índia,Netflix,2023-12-28,TRUE
+200819,Ação Explosiva,Terror,2017,1,161,de,EUA,HBO Max,2023-08-12,TRUE
+200820,Terror na Noite,Acao,1996,1,107,es,França,nan,2024-02-05,FALSE
+200821,Documentário da Natureza,Ficção Científica,1999,3,82,pt,Índia,Netflix,2023-06-28,TRUE
+200822,Mistério da Mansão,Comédia,1990,1,156,pt,Índia,Amazon Prime,2023-12-12,FALSE
+200823,Ficção Científica 2077,Drama,2005,4,144,fr,Japão,Amazon Prime,2023-07-24,FALSE
+200824,aventura na floresta,Documentário,2003,5,111,en,Coreia do Sul,nan,2023-07-22,TRUE
+200825,Drama da Vida Real,Ficção Científica,1998,5,133,de,Espanha,Amazon Prime,2023-07-19,FALSE
+200826,Documentário da Natureza,Ficção Científica,2017,4,125,fr,EUA,nan,2024-06-08,sim
+200827,Terror na Noite,Acao,2023,4,127,pt,Coreia do Sul,Amazon Prime,2024-03-10,sim
+200828,Drama da Vida Real,Comédia,2008,2,97,de,França,Netflix,2023-09-07,FALSE
+200829,Aventura na Floresta,Documentário,2014,3,108,fr,EUA,Netflix,2023-06-23,sim
+200830,Terror na Noite,Documentário,1994,5,129,es,Brasil,Netflix,2024-01-17,FALSE
+200831,Comédia Romântica,Terror,1992,3,130,de,França,Outro,2023-09-30,TRUE
+200832,Terror na Noite,Documentário,2023,4,136,pt,Coreia do Sul,Outro,2023-10-05,FALSE
+200833,Ficção Científica 2077,Acao,1990,5,83,pt,França,Amazon Prime,2024-02-14,TRUE
+200834,Drama da Vida Real,Ficção Científica,2009,1,111,es,EUA,Netflix,2023-06-27,TRUE
+200835,Mistério da Mansão,Ação,2023,4,151,fr,Japão,HBO Max,2023-11-27,FALSE
+200836,O Último Voo,Documentário,2022,5,71,es,Espanha,Netflix,2023-10-10,NA
+200837,Ação Explosiva,Comédia,2004,4,89,es,Brasil,Netflix,2024-06-06,TRUE
+200838,Comédia Romântica,Comédia,2005,4,93,en,Índia,HBO Max,2024-02-17,FALSE
+200839,Aventura na Floresta,Documentário,1991,4,85,pt,Espanha,Netflix,2023-10-03,FALSE
+200840,Terror na Noite,Documentário,2016,3,85,de,EUA,Outro,2024-02-26,TRUE
+200841,Mistério da Mansão,Ficção Científica,2010,5,157,pt,EUA,HBO Max,2024-02-27,FALSE
+200842,Terror na Noite,Terror,1992,4,94,fr,Brasil,HBO Max,2024-02-17,FALSE
+200843,Documentário da Natureza,Ficção Científica,2019,5,111,de,Espanha,Amazon Prime,2024-05-15,FALSE
+200844,O Último Voo,Comédia,2005,3,112,es,Índia,Netflix,2024-01-21,FALSE
+200845,O Último Voo,Terror,2009,5,133,fr,Brasil,Amazon Prime,2024-03-08,TRUE
+200846,Mistério da Mansão,Documentário,2014,5,91,es,França,Outro,2024-01-07,FALSE
+200847,Documentário da Natureza,Ficção Científica,2014,4,125,pt,Espanha,HBO Max,2023-06-23,FALSE
+200848,Comédia Romântica,Ficção Científica,1993,4,104,es,Brasil,Amazon Prime,2023-11-07,FALSE
+200849,Documentário da Natureza,Drama,2001,4,84,fr,Brasil,HBO Max,2024-04-14,TRUE
+200850,Comédia Romântica,Terror,2002,3,86,de,Espanha,Netflix,2023-07-07,TRUE
+200851,Aventura na Floresta,Ficção Científica,2003,5,168,fr,Coreia do Sul,Amazon Prime,2023-11-02,sim
+200852,Ação Explosiva,Documentário,2008,5,120,es,França,Amazon Prime,2023-10-09,FALSE
+200853,Ação Explosiva,Ação,1996,3,179,en,Espanha,Outro,2023-12-12,TRUE
+200854,Terror na Noite,Ação,1993,2,141,pt,Índia,Netflix,2023-11-08,TRUE
+200855,Ação Explosiva,Ação,2020,5,161,es,Brasil,Netflix,2024-03-10,TRUE
+200856,Drama da Vida Real,Drama,1991,4,136,pt,Coreia do Sul,Outro,2024-05-23,TRUE
+200857,Terror na Noite,Ação,2009,5,100,de,Espanha,Netflix,2024-02-16,NA
+200858,Ação Explosiva,Documentário,2004,2,174,pt,Japão,Netflix,2024-06-12,FALSE
+200859,Drama da Vida Real,Ação,2000,4,159,de,Espanha,HBO Max,2023-09-07,FALSE
+200860,Terror na Noite,Ação,1990,4,91,de,Japão,Amazon Prime,2023-12-19,NA
+200861,Documentário da Natureza,Ação,1996,4,96,en,Espanha,HBO Max,2024-06-03,FALSE
+200862,Comédia Romântica,Ficção Científica,2004,4,145,de,Brasil,Netflix,2024-05-05,NA
+200863,Terror na Noite,Documentário,2011,5,177,pt,Brasil,Netflix,2024-02-06,FALSE
+200864,Aventura na Floresta,Comédia,2001,5,119,fr,Brasil,Netflix,2024-02-02,TRUE
+200865,Mistério da Mansão,Drama,2008,4,97,de,Coreia do Sul,Netflix,2023-09-09,FALSE
+200866,Ação Explosiva,Drama,2005,3,115,es,França,Netflix,2024-04-09,FALSE
+200867,Documentário da Natureza,Comédia,2016,4,104,es,Espanha,HBO Max,2024-05-21,NA
+200868,Mistério da Mansão,Terror,2004,5,100,es,Japão,nan,2024-03-05,TRUE
+200869,O Último Voo,Ação,2004,5,175,en,Espanha,Netflix,2024-06-01,FALSE
+200870,Comédia Romântica,Drama,2002,4,171,pt,EUA,Outro,2023-10-23,FALSE
+200871,Terror na Noite,Drama,2003,4,118,en,França,Amazon Prime,2023-10-19,FALSE
+200872,Aventura na Floresta,Ação,1993,5,175,es,Coreia do Sul,Amazon Prime,2023-12-27,TRUE
+200873,Mistério da Mansão,Terror,2012,3,102,pt,França,Amazon Prime,2024-06-12,FALSE
+200874,Aventura na Floresta,Documentário,1990,3,176,fr,Brasil,Amazon Prime,2023-10-11,sim
+200875,Documentário da Natureza,Ficção Científica,2011,4,160,de,França,Amazon Prime,2023-06-27,FALSE
+200876,Ação Explosiva,Documentário,2021,3,124,fr,EUA,HBO Max,2024-03-08,TRUE
+200877,Documentário da Natureza,Comédia,2023,4,94,es,Japão,Netflix,2024-03-17,FALSE
+200878,Comédia Romântica,Comédia,2015,4,158,de,Coreia do Sul,Amazon Prime,2024-05-09,FALSE
+200879,O Último Voo,Drama,2009,4,123,pt,França,Outro,2024-04-06,FALSE
+200880,aventura na floresta,Terror,2015,2,104,fr,Coreia do Sul,Netflix,2023-12-25,TRUE
+200881,Ficção Científica 2077,Acao,2002,2,102,de,Brasil,Netflix,2024-03-18,FALSE
+200882,O Último Voo,Ação,2000,4,175,en,Índia,Netflix,2024-06-17,FALSE
+200883,Drama da Vida Real,Documentário,2015,3,94,en,Espanha,Netflix,2024-06-26,TRUE
+200884,Terror na Noite,Acao,2013,3,102,de,Índia,Amazon Prime,2023-09-22,TRUE
+200885,Ação Explosiva,Drama,1997,5,106,pt,EUA,Outro,2023-08-23,NA
+200886,Documentário da Natureza,Ação,1993,2,131,fr,Japão,HBO Max,2023-12-21,FALSE
+200887,Aventura na Floresta,Ficção Científica,1994,4,96,es,Brasil,Amazon Prime,2023-11-02,NA
+200888,Comédia Romântica,Comédia,1990,3,154,de,Espanha,HBO Max,2023-11-10,FALSE
+200889,O Último Voo,Ficção Científica,1992,4,124,de,Índia,HBO Max,2024-06-05,TRUE
+200890,Mistério da Mansão,Drama,1997,5,83,pt,Espanha,HBO Max,2023-12-19,TRUE
+200891,Documentário da Natureza,Ação,2016,4,137,en,Índia,Netflix,2023-11-14,TRUE
+200892,Ação Explosiva,Drama,1995,4,110,es,Coreia do Sul,Amazon Prime,2023-06-22,FALSE
+200893,Ficção Científica 2077,Documentário,1997,3,131,pt,Espanha,Outro,2023-06-07,FALSE
+200894,Drama da Vida Real,Drama,1992,4,159,en,EUA,Amazon Prime,2023-07-01,FALSE
+200895,Mistério da Mansão,Drama,1990,1,171,es,EUA,Netflix,2023-06-06,FALSE
+200896,Drama da Vida Real,Drama,2006,5,87,es,Índia,Outro,2024-02-17,FALSE
+200897,Documentário da Natureza,Terror,2021,3,122,en,Coreia do Sul,HBO Max,2024-05-06,TRUE
+200898,Mistério da Mansão,Comédia,1991,4,96,en,Japão,Netflix,2024-01-06,TRUE
+200899,Aventura na Floresta,Comedia,2000,2,87,de,Brasil,HBO Max,2023-11-22,NA
+200900,Aventura na Floresta,Ação,2003,4,118,de,França,Amazon Prime,2024-02-01,TRUE
+200901,O Último Voo,Comédia,2014,5,118,pt,Espanha,Amazon Prime,2023-08-23,FALSE
+200902,Aventura na Floresta,Ação,2008,3,121,fr,Índia,Netflix,2023-10-08,FALSE
+200903,Mistério da Mansão,Drama,2006,4,122,es,Índia,Netflix,2024-04-05,TRUE
+200904,Aventura na Floresta,Comedia,1996,3,110,pt,Espanha,Amazon Prime,2024-02-13,FALSE
+200905,Comédia Romântica,Documentário,2004,4,121,pt,EUA,Outro,2023-06-18,FALSE
+200906,O Último Voo,Acao,2018,5,113,fr,Espanha,Netflix,2023-07-28,FALSE
+200907,Documentário da Natureza,Documentário,2015,4,130,en,Japão,Outro,2023-09-08,sim
+200908,Ficção Científica 2077,Documentário,2013,4,169,de,Índia,Amazon Prime,2023-09-12,FALSE
+200909,Ação Explosiva,Drama,2015,5,168,en,Coreia do Sul,nan,2024-04-13,NA
+200910,Aventura na Floresta,Documentário,2000,2,117,pt,Coreia do Sul,Outro,2023-10-12,FALSE
+200911,Terror na Noite,Drama,2008,4,77,es,EUA,HBO Max,2023-12-31,TRUE
+200912,Ação Explosiva,Comédia,2003,5,147,es,Espanha,Netflix,2024-01-16,FALSE
+200913,Terror na Noite,Comédia,2010,5,104,fr,Espanha,HBO Max,2023-09-16,TRUE
+200914,Ficção Científica 2077,Drama,2006,5,151,de,Coreia do Sul,Amazon Prime,2023-12-26,FALSE
+200915,Aventura na Floresta,Comédia,2003,5,136,en,EUA,Outro,2024-06-03,TRUE
+200916,Ação Explosiva,Ficção Científica,2022,3,120,pt,Coreia do Sul,Outro,2024-04-29,FALSE
+200917,O Último Voo,Ficção Científica,2017,5,105,fr,França,Outro,2024-06-15,FALSE
+200918,Comédia Romântica,Comédia,2002,4,169,fr,Brasil,nan,2024-02-15,NA
+200919,Ficção Científica 2077,Documentário,2007,3,115,en,Brasil,Outro,2023-10-06,FALSE
+200920,Terror na Noite,Terror,2008,4,172,de,Brasil,Netflix,2024-06-07,FALSE
+200921,Terror na Noite,Documentário,2014,4,161,en,EUA,Amazon Prime,2023-11-17,TRUE
+200922,Mistério da Mansão,Comédia,2008,4,146,es,Japão,HBO Max,2024-04-25,TRUE
+200923,O Último Voo,Ação,2004,5,119,pt,Índia,Netflix,2023-10-30,sim
+200924,Comédia Romântica,Drama,2002,5,150,es,Brasil,Netflix,2024-04-13,TRUE
+200925,Aventura na Floresta,Ficção Científica,2015,4,114,es,Índia,Netflix,2024-06-09,NA
+200926,Aventura na Floresta,Comédia,2022,3,135,pt,Coreia do Sul,HBO Max,2024-06-12,TRUE
+200927,Drama da Vida Real,Acao,2010,4,84,en,Espanha,nan,2023-09-09,FALSE
+200928,Terror na Noite,Drama,2007,5,127,es,Índia,nan,2023-10-02,FALSE
+200929,Drama da Vida Real,Ação,2014,4,161,de,França,HBO Max,2023-11-20,sim
+200930,Ficção Científica 2077,Ficção Científica,1999,4,165,de,Brasil,HBO Max,2023-08-07,FALSE
+200931,O Último Voo,Ficção Científica,2006,3,138,en,Japão,Outro,2024-04-27,TRUE
+200932,O Último Voo,Ação,2010,5,114,en,Espanha,HBO Max,2024-05-23,NA
+200933,Ação Explosiva,Terror,1995,4,78,po,Brasil,HBO Max,2024-04-09,TRUE
+200934,Ficção Científica 2077,Ação,2011,2,141,es,Espanha,Amazon Prime,2024-01-25,TRUE
+200935,Ficção Científica 2077,Documentário,1993,5,91,fr,Espanha,HBO Max,2024-03-02,TRUE
+200936,Ficção Científica 2077,Ação,1996,2,96,pt,Coreia do Sul,nan,2023-10-27,TRUE
+200937,Ficção Científica 2077,Acao,2012,1,78,de,Japão,Netflix,2024-04-25,TRUE
+200938,Comédia Romântica,Ação,1992,3,97,de,Brasil,Outro,2024-01-10,sim
+200939,Terror na Noite,Drama,2008,3,139,es,Índia,HBO Max,2024-06-04,FALSE
+200940,Documentário da Natureza,Ficção Científica,1993,2,127,pt,França,Amazon Prime,2024-05-13,TRUE
+200941,Ficção Científica 2077,Terror,2002,4,98,de,Índia,Netflix,2024-01-03,TRUE
+200942,Comédia Romântica,Drama,2000,4,160,pt,Brasil,HBO Max,2023-07-20,FALSE
+200943,Drama da Vida Real,Ação,1997,3,83,es,Espanha,Netflix,2024-01-01,sim
+200944,Mistério da Mansão,Ação,2013,5,118,en,Brasil,Netflix,2023-08-15,TRUE
+200945,Terror na Noite,Ação,1990,4,121,fr,Espanha,nan,2023-10-19,FALSE
+200946,O Último Voo,Documentário,2021,4,169,en,Coreia do Sul,Amazon Prime,2023-12-07,FALSE
+200947,aventura na floresta,Terror,2006,4,172,pt,EUA,Outro,2024-05-08,TRUE
+200948,Documentário da Natureza,Comédia,2018,3,94,en,França,Outro,2023-06-19,FALSE
+200949,Drama da Vida Real,Drama,2012,3,128,fr,Índia,nan,2024-02-22,FALSE
+200950,Documentário da Natureza,Documentário,1996,5,79,de,Espanha,Outro,2024-06-26,TRUE
+200951,Drama da Vida Real,Terror,1990,4,107,fr,Brasil,Netflix,2023-06-08,FALSE
+200952,Aventura na Floresta,Documentário,2005,5,176,pt,Japão,Amazon Prime,2023-08-03,TRUE
+200953,Ficção Científica 2077,Comédia,1992,4,173,de,EUA,Outro,2024-04-27,FALSE
+200954,Ação Explosiva,Comédia,1993,4,100,fr,Japão,Netflix,2024-03-01,FALSE
+200955,Drama da Vida Real,Drama,2011,5,138,es,Espanha,Netflix,2023-07-31,TRUE
+200956,Drama da Vida Real,Documentário,2013,5,93,pt,Índia,HBO Max,2023-11-14,FALSE
+200957,Mistério da Mansão,Ficção Científica,2008,4,172,de,Coreia do Sul,Netflix,2024-03-31,FALSE
+200958,Documentário da Natureza,Drama,1999,3,77,pt,Brasil,Netflix,2023-12-27,FALSE
+200959,Documentário da Natureza,Terror,1995,3,93,po,Japão,Netflix,2023-08-20,FALSE
+200960,Ficção Científica 2077,Terror,2018,5,138,pt,Brasil,Amazon Prime,2023-10-04,FALSE
+200961,Documentário da Natureza,Terror,2016,2,239,de,Brasil,nan,2024-03-06,FALSE
+200962,O Último Voo,Documentário,2008,5,111,en,EUA,Outro,2023-12-25,FALSE
+200963,Terror na Noite,Ação,2020,3,74,fr,Brasil,Netflix,2023-08-06,sim
+200964,Mistério da Mansão,Documentário,1997,4,161,pt,Japão,Netflix,2024-04-01,FALSE
+200965,Ação Explosiva,Acao,1999,3,106,es,Espanha,Amazon Prime,2023-10-14,FALSE
+200966,Mistério da Mansão,Documentário,2000,4,119,es,Japão,Amazon Prime,2024-04-15,FALSE
+200967,Comédia Romântica,Ficção Científica,1994,4,149,fr,Espanha,Netflix,2023-09-30,FALSE
+200968,Aventura na Floresta,Ação,2001,3,164,es,Coreia do Sul,Outro,2023-11-25,TRUE
+200969,Comédia Romântica,Documentário,1999,5,125,fr,Coreia do Sul,Amazon Prime,2023-06-05,FALSE
+200970,Aventura na Floresta,Ação,2022,5,146,de,Japão,HBO Max,2023-10-04,TRUE
+200971,Terror na Noite,Drama,2013,4,169,de,Japão,Amazon Prime,2023-09-04,FALSE
+200972,Ficção Científica 2077,Ficção Científica,2013,1,173,de,Coreia do Sul,Netflix,2023-08-21,TRUE
+200973,Terror na Noite,Ficção Científica,2000,5,135,pt,Brasil,Outro,2023-08-27,FALSE
+200974,O Último Voo,Terror,2006,5,86,fr,Japão,nan,2023-11-11,FALSE
+200975,Ficção Científica 2077,Documentário,1994,5,126,pt,EUA,Netflix,2024-02-13,TRUE
+200976,Mistério da Mansão,Drama,2018,4,139,fr,Espanha,Amazon Prime,2024-04-23,FALSE
+200977,Ficção Científica 2077,Terror,2015,4,109,de,Espanha,Outro,2023-08-30,TRUE
+200978,Ficção Científica 2077,Drama,1999,4,158,en,Coreia do Sul,Netflix,2024-02-29,TRUE
+200979,Comédia Romântica,Ação,1990,4,145,de,EUA,HBO Max,2023-08-09,TRUE
+200980,Documentário da Natureza,Terror,2023,4,177,en,Brasil,Amazon Prime,2024-03-17,FALSE
+200981,Aventura na Floresta,Ação,2020,5,137,es,Brasil,Amazon Prime,2023-11-20,TRUE
+200982,Ação Explosiva,Drama,2015,4,122,pt,EUA,Netflix,2023-06-25,TRUE
+200983,Drama da Vida Real,Comédia,1991,5,165,fr,Coreia do Sul,Netflix,2024-06-02,FALSE
+200984,Terror na Noite,Terror,1991,5,163,pt,Índia,nan,2024-01-05,FALSE
+200985,Mistério da Mansão,Terror,2016,4,169,po,Brasil,nan,2023-08-21,FALSE
+200986,Comédia Romântica,Ação,2020,5,155,es,Índia,Netflix,2023-09-09,TRUE
+200987,Comédia Romântica,Drama,2002,3,175,de,França,HBO Max,2023-07-31,FALSE
+200988,Ação Explosiva,Comédia,2012,4,113,en,EUA,Netflix,2023-09-19,TRUE
+200989,Drama da Vida Real,Ficção Científica,2015,2,75,en,Coreia do Sul,Outro,2024-04-11,TRUE
+200990,Aventura na Floresta,Comédia,1991,4,100,en,Japão,Netflix,2024-02-14,FALSE
+200991,O Último Voo,Documentário,1992,3,112,es,Japão,Outro,2024-04-25,TRUE
+200992,O Último Voo,Ação,2018,4,160,es,Espanha,Amazon Prime,2023-11-06,FALSE
+200993,Drama da Vida Real,Documentário,2013,5,133,fr,França,Netflix,2023-10-03,NA
+200994,Terror na Noite,Acao,2006,4,80,es,EUA,HBO Max,2023-07-06,TRUE
+200995,O Último Voo,Terror,2001,5,89,de,Coreia do Sul,nan,2024-04-08,TRUE
+200996,Drama da Vida Real,Drama,2006,4,161,pt,EUA,Outro,2023-07-03,sim
+200997,O Último Voo,Comédia,2001,5,80,de,Japão,Amazon Prime,2023-08-03,TRUE
+200998,Mistério da Mansão,Comédia,2010,4,140,pt,Espanha,Amazon Prime,2024-04-22,FALSE
+200999,Terror na Noite,Comédia,2009,2,142,pt,EUA,Amazon Prime,2023-11-21,FALSE
+201000,Ação Explosiva,Ficção Científica,2016,5,136,es,Brasil,Netflix,2023-08-31,FALSE
